@@ -31,12 +31,12 @@ PriorityAdjustments AS (
     	task_id,
         CASE
             WHEN AVG(completed_at - started_at) <= interval '1 minute' THEN 10
-            WHEN AVG(completed_at - started_at) < interval '15 minutes' THEN 25
-            WHEN AVG(completed_at - started_at) < interval '30 minutes' THEN 30
-            WHEN AVG(completed_at - started_at) < interval '60 minutes' THEN 35
-            WHEN AVG(completed_at - started_at) < interval '90 minutes' THEN 40
-            WHEN AVG(completed_at - started_at) < interval '180 minutes' THEN 60
-            WHEN AVG(completed_at - started_at) >= interval '180 minutes' THEN 100
+            WHEN AVG(completed_at - started_at) < interval '2 minutes' THEN 25
+            WHEN AVG(completed_at - started_at) < interval '3 minutes' THEN 30
+            WHEN AVG(completed_at - started_at) < interval '6 minutes' THEN 35
+            WHEN AVG(completed_at - started_at) < interval '9 minutes' THEN 40
+            WHEN AVG(completed_at - started_at) < interval '18 minutes' THEN 60
+            WHEN AVG(completed_at - started_at) >= interval '18 minutes' THEN 100
             ELSE 50
         END AS new_priority
     FROM
