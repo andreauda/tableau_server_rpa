@@ -1,0 +1,2003 @@
+2024-05-27 10:36:24,181 - INFO - 
+             
+             SCRIPT STARTED...
+             
+2024-05-27 10:36:24,191 - INFO - csv file imported
+2024-05-27 10:36:27,517 - INFO - chromedriver is working fine
+2024-05-27 10:36:32,497 - INFO - row 1 - landed to: https://tableau.schneider-electric.com/#/site/AnnualMarketReport/datasources/5151599/extractRefreshes
+2024-05-27 10:36:37,879 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:36:38,977 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:36:40,022 - INFO - old priority deleted
+2024-05-27 10:36:41,072 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:36:41,137 - INFO - priority changed, confirming click done
+2024-05-27 10:36:43,156 - INFO - row 2 - landed to: https://tableau.schneider-electric.com/#/site/AnnualMarketReport/datasources/5151243/extractRefreshes
+2024-05-27 10:36:44,228 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:36:45,301 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:36:46,325 - INFO - old priority deleted
+2024-05-27 10:36:47,363 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:36:47,411 - INFO - priority changed, confirming click done
+2024-05-27 10:36:49,430 - INFO - row 3 - landed to: https://tableau.schneider-electric.com/#/site/AnnualMarketReport/datasources/5151229/extractRefreshes
+2024-05-27 10:36:50,489 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:36:51,555 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:36:52,588 - INFO - old priority deleted
+2024-05-27 10:36:53,622 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:36:53,700 - INFO - priority changed, confirming click done
+2024-05-27 10:36:55,716 - INFO - row 4 - landed to: https://tableau.schneider-electric.com/#/site/AnnualMarketReport/datasources/5151593/extractRefreshes
+2024-05-27 10:36:56,771 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:36:57,831 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:36:58,858 - INFO - old priority deleted
+2024-05-27 10:36:59,891 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:36:59,935 - INFO - priority changed, confirming click done
+2024-05-27 10:37:01,951 - INFO - row 5 - landed to: https://tableau.schneider-electric.com/#/site/AnnualMarketReport/datasources/5149283/extractRefreshes
+2024-05-27 10:37:03,009 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:04,068 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:05,098 - INFO - old priority deleted
+2024-05-27 10:37:06,130 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:06,173 - INFO - priority changed, confirming click done
+2024-05-27 10:37:08,188 - INFO - row 6 - landed to: https://tableau.schneider-electric.com/#/site/AnnualMarketReport/datasources/5151213/extractRefreshes
+2024-05-27 10:37:09,772 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:10,836 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:11,867 - INFO - old priority deleted
+2024-05-27 10:37:12,891 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:12,939 - INFO - priority changed, confirming click done
+2024-05-27 10:37:14,950 - INFO - row 7 - landed to: https://tableau.schneider-electric.com/#/site/ASCO/workbooks/30106/extractRefreshes
+2024-05-27 10:37:16,522 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:17,587 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:18,615 - INFO - old priority deleted
+2024-05-27 10:37:19,648 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:19,697 - INFO - priority changed, confirming click done
+2024-05-27 10:37:21,706 - INFO - row 8 - landed to: https://tableau.schneider-electric.com/#/site/BIDACH/datasources/5122023/extractRefreshes
+2024-05-27 10:37:22,767 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:23,826 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:24,849 - INFO - old priority deleted
+2024-05-27 10:37:25,879 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:25,934 - INFO - priority changed, confirming click done
+2024-05-27 10:37:27,946 - INFO - row 9 - landed to: https://tableau.schneider-electric.com/#/site/BIDACH/workbooks/90981/extractRefreshes
+2024-05-27 10:37:29,016 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:30,070 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:31,096 - INFO - old priority deleted
+2024-05-27 10:37:32,126 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:32,170 - INFO - priority changed, confirming click done
+2024-05-27 10:37:34,180 - INFO - row 10 - landed to: https://tableau.schneider-electric.com/#/site/Canada/workbooks/41335/extractRefreshes
+2024-05-27 10:37:35,250 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:36,312 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:37,339 - INFO - old priority deleted
+2024-05-27 10:37:38,369 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:38,417 - INFO - priority changed, confirming click done
+2024-05-27 10:37:40,429 - INFO - row 11 - landed to: https://tableau.schneider-electric.com/#/site/BRCC/datasources/4948190/extractRefreshes
+2024-05-27 10:37:41,491 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:42,550 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:43,579 - INFO - old priority deleted
+2024-05-27 10:37:44,609 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:44,650 - INFO - priority changed, confirming click done
+2024-05-27 10:37:46,662 - INFO - row 12 - landed to: https://tableau.schneider-electric.com/#/site/BRCC/workbooks/90934/extractRefreshes
+2024-05-27 10:37:47,710 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:48,763 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:49,793 - INFO - old priority deleted
+2024-05-27 10:37:50,822 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:50,872 - INFO - priority changed, confirming click done
+2024-05-27 10:37:52,881 - INFO - row 13 - landed to: https://tableau.schneider-electric.com/#/site/CommercialSalesOperations/workbooks/8417/extractRefreshes
+2024-05-27 10:37:53,942 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:37:55,002 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:37:56,032 - INFO - old priority deleted
+2024-05-27 10:37:57,060 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:37:57,105 - INFO - priority changed, confirming click done
+2024-05-27 10:37:59,119 - INFO - row 14 - landed to: https://tableau.schneider-electric.com/#/site/CommercialSalesOperations/datasources/4881265/extractRefreshes
+2024-05-27 10:38:00,180 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:01,239 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:02,267 - INFO - old priority deleted
+2024-05-27 10:38:03,300 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:03,346 - INFO - priority changed, confirming click done
+2024-05-27 10:38:05,356 - INFO - row 15 - landed to: https://tableau.schneider-electric.com/#/site/CSHBI/workbooks/79237/extractRefreshes
+2024-05-27 10:38:06,410 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:07,466 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:08,496 - INFO - old priority deleted
+2024-05-27 10:38:09,524 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:09,572 - INFO - priority changed, confirming click done
+2024-05-27 10:38:11,582 - INFO - row 16 - landed to: https://tableau.schneider-electric.com/#/site/CXAnalytics/datasources/1640604/extractRefreshes
+2024-05-27 10:38:12,644 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:13,709 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:14,739 - INFO - old priority deleted
+2024-05-27 10:38:15,770 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:15,819 - INFO - priority changed, confirming click done
+2024-05-27 10:38:17,829 - INFO - row 17 - landed to: https://tableau.schneider-electric.com/#/site/CXAnalytics/workbooks/8001/extractRefreshes
+2024-05-27 10:38:18,892 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:19,947 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:20,979 - INFO - old priority deleted
+2024-05-27 10:38:22,011 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:22,059 - INFO - priority changed, confirming click done
+2024-05-27 10:38:24,070 - INFO - row 18 - landed to: https://tableau.schneider-electric.com/#/site/CustomerSupportAnalytics/workbooks/84592/extractRefreshes
+2024-05-27 10:38:25,123 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:26,189 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:27,220 - INFO - old priority deleted
+2024-05-27 10:38:28,254 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:28,300 - INFO - priority changed, confirming click done
+2024-05-27 10:38:30,309 - INFO - row 19 - landed to: https://tableau.schneider-electric.com/#/site/DCXAnalytics/datasources/4741592/extractRefreshes
+2024-05-27 10:38:31,367 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:32,434 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:33,461 - INFO - old priority deleted
+2024-05-27 10:38:34,487 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:34,534 - INFO - priority changed, confirming click done
+2024-05-27 10:38:36,546 - INFO - row 20 - landed to: https://tableau.schneider-electric.com/#/site/DCXAnalytics/datasources/5149303/extractRefreshes
+2024-05-27 10:38:37,623 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:38,687 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:39,718 - INFO - old priority deleted
+2024-05-27 10:38:40,748 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:40,794 - INFO - priority changed, confirming click done
+2024-05-27 10:38:42,809 - INFO - row 21 - landed to: https://tableau.schneider-electric.com/#/site/DCXAnalytics/datasources/4915919/extractRefreshes
+2024-05-27 10:38:43,870 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:44,931 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:45,958 - INFO - old priority deleted
+2024-05-27 10:38:46,988 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:47,033 - INFO - priority changed, confirming click done
+2024-05-27 10:38:49,042 - INFO - row 22 - landed to: https://tableau.schneider-electric.com/#/site/DDHEurope/workbooks/64427/extractRefreshes
+2024-05-27 10:38:50,615 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:51,674 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:52,703 - INFO - old priority deleted
+2024-05-27 10:38:53,721 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:38:53,775 - INFO - priority changed, confirming click done
+2024-05-27 10:38:55,788 - INFO - row 23 - landed to: https://tableau.schneider-electric.com/#/site/DDHEurope/workbooks/64810/extractRefreshes
+2024-05-27 10:38:56,841 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:38:57,899 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:38:58,930 - INFO - old priority deleted
+2024-05-27 10:38:59,964 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:00,059 - INFO - priority changed, confirming click done
+2024-05-27 10:39:02,073 - INFO - row 24 - landed to: https://tableau.schneider-electric.com/#/site/DEChinaAnalytics/workbooks/89148/extractRefreshes
+2024-05-27 10:39:03,198 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:04,261 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:05,288 - INFO - old priority deleted
+2024-05-27 10:39:06,370 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:06,416 - INFO - priority changed, confirming click done
+2024-05-27 10:39:08,433 - INFO - row 25 - landed to: https://tableau.schneider-electric.com/#/site/DEChinaAnalytics/workbooks/80088/extractRefreshes
+2024-05-27 10:39:09,493 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:10,553 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:11,578 - INFO - old priority deleted
+2024-05-27 10:39:12,613 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:12,662 - INFO - priority changed, confirming click done
+2024-05-27 10:39:14,676 - INFO - row 26 - landed to: https://tableau.schneider-electric.com/#/site/E2EDCRArchitectureTechnology/workbooks/85321/extractRefreshes
+2024-05-27 10:39:15,731 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:16,786 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:17,815 - INFO - old priority deleted
+2024-05-27 10:39:18,852 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:18,912 - INFO - priority changed, confirming click done
+2024-05-27 10:39:20,922 - INFO - row 27 - landed to: https://tableau.schneider-electric.com/#/site/E2EDCRArchitectureTechnology/workbooks/59140/extractRefreshes
+2024-05-27 10:39:21,981 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:23,044 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:24,067 - INFO - old priority deleted
+2024-05-27 10:39:25,102 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:25,158 - INFO - priority changed, confirming click done
+2024-05-27 10:39:27,167 - INFO - row 28 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/84580/extractRefreshes
+2024-05-27 10:39:28,235 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:29,299 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:30,326 - INFO - old priority deleted
+2024-05-27 10:39:31,400 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:31,456 - INFO - priority changed, confirming click done
+2024-05-27 10:39:33,463 - INFO - row 29 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/84580/extractRefreshes
+2024-05-27 10:39:34,524 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:35,599 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:36,623 - INFO - old priority deleted
+2024-05-27 10:39:37,659 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:37,694 - INFO - priority changed, confirming click done
+2024-05-27 10:39:39,698 - INFO - row 30 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/84580/extractRefreshes
+2024-05-27 10:39:40,756 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:41,826 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:42,860 - INFO - old priority deleted
+2024-05-27 10:39:43,894 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:43,947 - INFO - priority changed, confirming click done
+2024-05-27 10:39:45,964 - INFO - row 31 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/53194/extractRefreshes
+2024-05-27 10:39:47,032 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:48,095 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:49,132 - INFO - old priority deleted
+2024-05-27 10:39:50,176 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:50,223 - INFO - priority changed, confirming click done
+2024-05-27 10:39:52,233 - INFO - row 32 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/35669/extractRefreshes
+2024-05-27 10:39:53,293 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:39:54,347 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:39:55,372 - INFO - old priority deleted
+2024-05-27 10:39:56,412 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:39:56,459 - INFO - priority changed, confirming click done
+2024-05-27 10:39:58,472 - INFO - row 33 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/82836/extractRefreshes
+2024-05-27 10:39:59,530 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:00,587 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:01,613 - INFO - old priority deleted
+2024-05-27 10:40:02,648 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:02,696 - INFO - priority changed, confirming click done
+2024-05-27 10:40:04,711 - INFO - row 34 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/81410/extractRefreshes
+2024-05-27 10:40:05,786 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:06,851 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:07,877 - INFO - old priority deleted
+2024-05-27 10:40:08,896 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:08,938 - INFO - priority changed, confirming click done
+2024-05-27 10:40:10,955 - INFO - row 35 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/72531/extractRefreshes
+2024-05-27 10:40:12,007 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:13,141 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:14,166 - INFO - old priority deleted
+2024-05-27 10:40:15,202 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:15,261 - INFO - priority changed, confirming click done
+2024-05-27 10:40:17,274 - INFO - row 36 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/78757/extractRefreshes
+2024-05-27 10:40:18,318 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:19,372 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:20,407 - INFO - old priority deleted
+2024-05-27 10:40:21,450 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:21,497 - INFO - priority changed, confirming click done
+2024-05-27 10:40:23,511 - INFO - row 37 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/77711/extractRefreshes
+2024-05-27 10:40:24,569 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:25,649 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:26,670 - INFO - old priority deleted
+2024-05-27 10:40:27,690 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:27,733 - INFO - priority changed, confirming click done
+2024-05-27 10:40:29,747 - INFO - row 38 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/86745/extractRefreshes
+2024-05-27 10:40:30,819 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:31,895 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:32,915 - INFO - old priority deleted
+2024-05-27 10:40:33,963 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:34,023 - INFO - priority changed, confirming click done
+2024-05-27 10:40:36,036 - INFO - row 39 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/41186/extractRefreshes
+2024-05-27 10:40:37,091 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:38,154 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:39,190 - INFO - old priority deleted
+2024-05-27 10:40:40,220 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:40,268 - INFO - priority changed, confirming click done
+2024-05-27 10:40:42,283 - INFO - row 40 - landed to: https://tableau.schneider-electric.com/#/site/EAJPManufacturingControlTower/workbooks/90503/extractRefreshes
+2024-05-27 10:40:43,330 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:44,397 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:45,429 - INFO - old priority deleted
+2024-05-27 10:40:46,456 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:46,513 - INFO - priority changed, confirming click done
+2024-05-27 10:40:48,535 - INFO - row 41 - landed to: https://tableau.schneider-electric.com/#/datasources/5133600/extractRefreshes
+2024-05-27 10:40:53,185 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:40:54,263 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:40:55,300 - INFO - old priority deleted
+2024-05-27 10:40:56,327 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:40:56,383 - INFO - priority changed, confirming click done
+2024-05-27 10:40:58,396 - INFO - row 42 - landed to: https://tableau.schneider-electric.com/#/datasources/2802660/extractRefreshes
+2024-05-27 10:40:59,466 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:00,539 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:01,572 - INFO - old priority deleted
+2024-05-27 10:41:02,598 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:02,641 - INFO - priority changed, confirming click done
+2024-05-27 10:41:04,646 - INFO - row 43 - landed to: https://tableau.schneider-electric.com/#/datasources/2802660/extractRefreshes
+2024-05-27 10:41:05,714 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:06,776 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:07,797 - INFO - old priority deleted
+2024-05-27 10:41:08,820 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:08,874 - INFO - priority changed, confirming click done
+2024-05-27 10:41:10,928 - INFO - row 44 - landed to: https://tableau.schneider-electric.com/#/workbooks/36113/extractRefreshes
+2024-05-27 10:41:12,001 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:13,063 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:14,098 - INFO - old priority deleted
+2024-05-27 10:41:15,116 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:15,159 - INFO - priority changed, confirming click done
+2024-05-27 10:41:17,169 - INFO - row 45 - landed to: https://tableau.schneider-electric.com/#/datasources/3454566/extractRefreshes
+2024-05-27 10:41:19,266 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:20,330 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:21,366 - INFO - old priority deleted
+2024-05-27 10:41:22,411 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:22,459 - INFO - priority changed, confirming click done
+2024-05-27 10:41:24,473 - INFO - row 46 - landed to: https://tableau.schneider-electric.com/#/workbooks/72817/extractRefreshes
+2024-05-27 10:41:26,059 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:27,126 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:28,154 - INFO - old priority deleted
+2024-05-27 10:41:29,174 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:29,228 - INFO - priority changed, confirming click done
+2024-05-27 10:41:31,240 - INFO - row 47 - landed to: https://tableau.schneider-electric.com/#/workbooks/67006/extractRefreshes
+2024-05-27 10:41:32,360 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:33,432 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:34,471 - INFO - old priority deleted
+2024-05-27 10:41:35,511 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:35,567 - INFO - priority changed, confirming click done
+2024-05-27 10:41:37,578 - INFO - row 48 - landed to: https://tableau.schneider-electric.com/#/workbooks/79485/extractRefreshes
+2024-05-27 10:41:38,654 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:39,727 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:40,760 - INFO - old priority deleted
+2024-05-27 10:41:41,808 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:41,869 - INFO - priority changed, confirming click done
+2024-05-27 10:41:43,881 - INFO - row 49 - landed to: https://tableau.schneider-electric.com/#/workbooks/83686/extractRefreshes
+2024-05-27 10:41:44,938 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:46,012 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:47,040 - INFO - old priority deleted
+2024-05-27 10:41:48,084 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:48,147 - INFO - priority changed, confirming click done
+2024-05-27 10:41:50,160 - INFO - row 50 - landed to: https://tableau.schneider-electric.com/#/workbooks/67392/extractRefreshes
+2024-05-27 10:41:51,224 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:52,297 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:53,339 - INFO - old priority deleted
+2024-05-27 10:41:54,384 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:41:54,443 - INFO - priority changed, confirming click done
+2024-05-27 10:41:56,455 - INFO - row 51 - landed to: https://tableau.schneider-electric.com/#/workbooks/68439/extractRefreshes
+2024-05-27 10:41:57,517 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:41:58,592 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:41:59,631 - INFO - old priority deleted
+2024-05-27 10:42:00,671 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:00,725 - INFO - priority changed, confirming click done
+2024-05-27 10:42:02,737 - INFO - row 52 - landed to: https://tableau.schneider-electric.com/#/workbooks/42039/extractRefreshes
+2024-05-27 10:42:03,804 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:04,874 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:05,911 - INFO - old priority deleted
+2024-05-27 10:42:06,931 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:07,021 - INFO - priority changed, confirming click done
+2024-05-27 10:42:09,033 - INFO - row 53 - landed to: https://tableau.schneider-electric.com/#/workbooks/69790/extractRefreshes
+2024-05-27 10:42:10,105 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:11,178 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:12,214 - INFO - old priority deleted
+2024-05-27 10:42:13,254 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:13,310 - INFO - priority changed, confirming click done
+2024-05-27 10:42:15,321 - INFO - row 54 - landed to: https://tableau.schneider-electric.com/#/workbooks/90785/extractRefreshes
+2024-05-27 10:42:16,385 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:17,460 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:18,501 - INFO - old priority deleted
+2024-05-27 10:42:19,537 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:19,592 - INFO - priority changed, confirming click done
+2024-05-27 10:42:21,617 - INFO - row 55 - landed to: https://tableau.schneider-electric.com/#/datasources/4958219/extractRefreshes
+2024-05-27 10:42:22,682 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:23,757 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:24,795 - INFO - old priority deleted
+2024-05-27 10:42:25,843 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:25,901 - INFO - priority changed, confirming click done
+2024-05-27 10:42:27,916 - INFO - row 56 - landed to: https://tableau.schneider-electric.com/#/datasources/4908850/extractRefreshes
+2024-05-27 10:42:28,974 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:30,037 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:31,064 - INFO - old priority deleted
+2024-05-27 10:42:32,097 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:32,149 - INFO - priority changed, confirming click done
+2024-05-27 10:42:34,176 - INFO - row 57 - landed to: https://tableau.schneider-electric.com/#/workbooks/63908/extractRefreshes
+2024-05-27 10:42:35,240 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:36,304 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:37,343 - INFO - old priority deleted
+2024-05-27 10:42:38,386 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:38,448 - INFO - priority changed, confirming click done
+2024-05-27 10:42:40,503 - INFO - row 58 - landed to: https://tableau.schneider-electric.com/#/workbooks/63908/extractRefreshes
+2024-05-27 10:42:41,563 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:42,639 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:43,679 - INFO - old priority deleted
+2024-05-27 10:42:44,723 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:44,783 - INFO - priority changed, confirming click done
+2024-05-27 10:42:46,827 - INFO - row 59 - landed to: https://tableau.schneider-electric.com/#/workbooks/75546/extractRefreshes
+2024-05-27 10:42:47,897 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:48,961 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:50,001 - INFO - old priority deleted
+2024-05-27 10:42:51,044 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:51,107 - INFO - priority changed, confirming click done
+2024-05-27 10:42:53,118 - INFO - row 60 - landed to: https://tableau.schneider-electric.com/#/workbooks/83479/extractRefreshes
+2024-05-27 10:42:54,183 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:42:55,246 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:42:56,282 - INFO - old priority deleted
+2024-05-27 10:42:57,329 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:42:57,385 - INFO - priority changed, confirming click done
+2024-05-27 10:42:59,397 - INFO - row 61 - landed to: https://tableau.schneider-electric.com/#/workbooks/71899/extractRefreshes
+2024-05-27 10:43:00,464 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:01,532 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:02,573 - INFO - old priority deleted
+2024-05-27 10:43:03,618 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:03,680 - INFO - priority changed, confirming click done
+2024-05-27 10:43:05,693 - INFO - row 62 - landed to: https://tableau.schneider-electric.com/#/workbooks/50335/extractRefreshes
+2024-05-27 10:43:06,761 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:07,833 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:08,872 - INFO - old priority deleted
+2024-05-27 10:43:09,917 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:09,974 - INFO - priority changed, confirming click done
+2024-05-27 10:43:11,987 - INFO - row 63 - landed to: https://tableau.schneider-electric.com/#/workbooks/76600/extractRefreshes
+2024-05-27 10:43:13,048 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:14,127 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:15,165 - INFO - old priority deleted
+2024-05-27 10:43:16,207 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:16,271 - INFO - priority changed, confirming click done
+2024-05-27 10:43:18,283 - INFO - row 64 - landed to: https://tableau.schneider-electric.com/#/workbooks/64459/extractRefreshes
+2024-05-27 10:43:19,346 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:20,416 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:21,455 - INFO - old priority deleted
+2024-05-27 10:43:22,498 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:22,541 - INFO - priority changed, confirming click done
+2024-05-27 10:43:24,560 - INFO - row 65 - landed to: https://tableau.schneider-electric.com/#/workbooks/64463/extractRefreshes
+2024-05-27 10:43:25,612 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:26,664 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:27,685 - INFO - old priority deleted
+2024-05-27 10:43:28,711 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:28,752 - INFO - priority changed, confirming click done
+2024-05-27 10:43:30,764 - INFO - row 66 - landed to: https://tableau.schneider-electric.com/#/workbooks/48834/extractRefreshes
+2024-05-27 10:43:31,824 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:32,878 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:33,901 - INFO - old priority deleted
+2024-05-27 10:43:34,924 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:34,967 - INFO - priority changed, confirming click done
+2024-05-27 10:43:36,980 - INFO - row 67 - landed to: https://tableau.schneider-electric.com/#/workbooks/79584/extractRefreshes
+2024-05-27 10:43:38,032 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:39,191 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:40,229 - INFO - old priority deleted
+2024-05-27 10:43:41,267 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:41,330 - INFO - priority changed, confirming click done
+2024-05-27 10:43:43,343 - INFO - row 68 - landed to: https://tableau.schneider-electric.com/#/workbooks/64475/extractRefreshes
+2024-05-27 10:43:44,409 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:45,483 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:46,520 - INFO - old priority deleted
+2024-05-27 10:43:47,566 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:47,618 - INFO - priority changed, confirming click done
+2024-05-27 10:43:49,629 - INFO - row 69 - landed to: https://tableau.schneider-electric.com/#/workbooks/64474/extractRefreshes
+2024-05-27 10:43:50,690 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:51,790 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:52,828 - INFO - old priority deleted
+2024-05-27 10:43:53,876 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:43:53,934 - INFO - priority changed, confirming click done
+2024-05-27 10:43:55,948 - INFO - row 70 - landed to: https://tableau.schneider-electric.com/#/workbooks/20081/extractRefreshes
+2024-05-27 10:43:57,013 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:43:58,081 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:43:59,124 - INFO - old priority deleted
+2024-05-27 10:44:00,171 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:00,229 - INFO - priority changed, confirming click done
+2024-05-27 10:44:02,241 - INFO - row 71 - landed to: https://tableau.schneider-electric.com/#/workbooks/80075/extractRefreshes
+2024-05-27 10:44:03,295 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:04,353 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:05,390 - INFO - old priority deleted
+2024-05-27 10:44:06,439 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:06,495 - INFO - priority changed, confirming click done
+2024-05-27 10:44:08,505 - INFO - row 72 - landed to: https://tableau.schneider-electric.com/#/workbooks/64688/extractRefreshes
+2024-05-27 10:44:09,566 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:10,625 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:11,650 - INFO - old priority deleted
+2024-05-27 10:44:12,695 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:12,743 - INFO - priority changed, confirming click done
+2024-05-27 10:44:14,754 - INFO - row 73 - landed to: https://tableau.schneider-electric.com/#/workbooks/78306/extractRefreshes
+2024-05-27 10:44:15,822 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:16,888 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:17,912 - INFO - old priority deleted
+2024-05-27 10:44:18,945 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:19,004 - INFO - priority changed, confirming click done
+2024-05-27 10:44:21,017 - INFO - row 74 - landed to: https://tableau.schneider-electric.com/#/workbooks/65756/extractRefreshes
+2024-05-27 10:44:22,085 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:23,161 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:24,199 - INFO - old priority deleted
+2024-05-27 10:44:25,238 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:25,296 - INFO - priority changed, confirming click done
+2024-05-27 10:44:27,319 - INFO - row 75 - landed to: https://tableau.schneider-electric.com/#/datasources/4950814/extractRefreshes
+2024-05-27 10:44:28,384 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:29,450 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:30,488 - INFO - old priority deleted
+2024-05-27 10:44:31,537 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:31,578 - INFO - priority changed, confirming click done
+2024-05-27 10:44:33,600 - INFO - row 76 - landed to: https://tableau.schneider-electric.com/#/workbooks/78233/extractRefreshes
+2024-05-27 10:44:34,662 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:35,733 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:36,765 - INFO - old priority deleted
+2024-05-27 10:44:37,799 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:37,857 - INFO - priority changed, confirming click done
+2024-05-27 10:44:39,870 - INFO - row 77 - landed to: https://tableau.schneider-electric.com/#/workbooks/51668/extractRefreshes
+2024-05-27 10:44:40,945 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:42,020 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:43,057 - INFO - old priority deleted
+2024-05-27 10:44:44,103 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:44,161 - INFO - priority changed, confirming click done
+2024-05-27 10:44:46,175 - INFO - row 78 - landed to: https://tableau.schneider-electric.com/#/workbooks/90920/extractRefreshes
+2024-05-27 10:44:47,233 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:48,286 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:49,314 - INFO - old priority deleted
+2024-05-27 10:44:50,358 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:50,416 - INFO - priority changed, confirming click done
+2024-05-27 10:44:52,428 - INFO - row 79 - landed to: https://tableau.schneider-electric.com/#/workbooks/78917/extractRefreshes
+2024-05-27 10:44:53,496 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:44:54,568 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:44:55,607 - INFO - old priority deleted
+2024-05-27 10:44:56,649 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:44:56,709 - INFO - priority changed, confirming click done
+2024-05-27 10:44:58,720 - INFO - row 80 - landed to: https://tableau.schneider-electric.com/#/workbooks/35942/extractRefreshes
+2024-05-27 10:44:59,784 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:00,854 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:01,896 - INFO - old priority deleted
+2024-05-27 10:45:02,937 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:02,990 - INFO - priority changed, confirming click done
+2024-05-27 10:45:04,999 - INFO - row 81 - landed to: https://tableau.schneider-electric.com/#/workbooks/77657/extractRefreshes
+2024-05-27 10:45:06,062 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:07,137 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:08,178 - INFO - old priority deleted
+2024-05-27 10:45:09,222 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:09,270 - INFO - priority changed, confirming click done
+2024-05-27 10:45:11,279 - INFO - row 82 - landed to: https://tableau.schneider-electric.com/#/datasources/4740667/extractRefreshes
+2024-05-27 10:45:12,347 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:13,416 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:14,453 - INFO - old priority deleted
+2024-05-27 10:45:15,491 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:15,546 - INFO - priority changed, confirming click done
+2024-05-27 10:45:17,558 - INFO - row 83 - landed to: https://tableau.schneider-electric.com/#/workbooks/78394/extractRefreshes
+2024-05-27 10:45:18,607 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:19,662 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:20,701 - INFO - old priority deleted
+2024-05-27 10:45:21,744 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:21,807 - INFO - priority changed, confirming click done
+2024-05-27 10:45:23,820 - INFO - row 84 - landed to: https://tableau.schneider-electric.com/#/workbooks/39106/extractRefreshes
+2024-05-27 10:45:24,887 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:25,963 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:27,000 - INFO - old priority deleted
+2024-05-27 10:45:28,056 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:28,107 - INFO - priority changed, confirming click done
+2024-05-27 10:45:30,157 - INFO - row 85 - landed to: https://tableau.schneider-electric.com/#/workbooks/81421/extractRefreshes
+2024-05-27 10:45:31,225 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:32,294 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:33,320 - INFO - old priority deleted
+2024-05-27 10:45:34,351 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:34,389 - INFO - priority changed, confirming click done
+2024-05-27 10:45:36,407 - INFO - row 86 - landed to: https://tableau.schneider-electric.com/#/workbooks/84977/extractRefreshes
+2024-05-27 10:45:37,461 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:38,538 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:39,575 - INFO - old priority deleted
+2024-05-27 10:45:40,622 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:40,677 - INFO - priority changed, confirming click done
+2024-05-27 10:45:42,690 - INFO - row 87 - landed to: https://tableau.schneider-electric.com/#/workbooks/73637/extractRefreshes
+2024-05-27 10:45:43,750 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:44,819 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:45,854 - INFO - old priority deleted
+2024-05-27 10:45:46,889 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:46,935 - INFO - priority changed, confirming click done
+2024-05-27 10:45:48,948 - INFO - row 88 - landed to: https://tableau.schneider-electric.com/#/workbooks/64465/extractRefreshes
+2024-05-27 10:45:50,073 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:51,134 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:52,155 - INFO - old priority deleted
+2024-05-27 10:45:53,184 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:53,241 - INFO - priority changed, confirming click done
+2024-05-27 10:45:55,253 - INFO - row 89 - landed to: https://tableau.schneider-electric.com/#/workbooks/81338/extractRefreshes
+2024-05-27 10:45:56,319 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:45:57,392 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:45:58,425 - INFO - old priority deleted
+2024-05-27 10:45:59,473 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:45:59,529 - INFO - priority changed, confirming click done
+2024-05-27 10:46:01,541 - INFO - row 90 - landed to: https://tableau.schneider-electric.com/#/workbooks/75340/extractRefreshes
+2024-05-27 10:46:02,603 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:03,735 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:04,774 - INFO - old priority deleted
+2024-05-27 10:46:05,823 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:05,880 - INFO - priority changed, confirming click done
+2024-05-27 10:46:07,891 - INFO - row 91 - landed to: https://tableau.schneider-electric.com/#/workbooks/87626/extractRefreshes
+2024-05-27 10:46:08,957 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:10,035 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:11,072 - INFO - old priority deleted
+2024-05-27 10:46:12,118 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:12,169 - INFO - priority changed, confirming click done
+2024-05-27 10:46:14,187 - INFO - row 92 - landed to: https://tableau.schneider-electric.com/#/workbooks/20096/extractRefreshes
+2024-05-27 10:46:15,245 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:16,306 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:17,346 - INFO - old priority deleted
+2024-05-27 10:46:18,382 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:18,428 - INFO - priority changed, confirming click done
+2024-05-27 10:46:20,442 - INFO - row 93 - landed to: https://tableau.schneider-electric.com/#/workbooks/69408/extractRefreshes
+2024-05-27 10:46:21,533 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:22,592 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:23,627 - INFO - old priority deleted
+2024-05-27 10:46:24,669 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:24,726 - INFO - priority changed, confirming click done
+2024-05-27 10:46:26,736 - INFO - row 94 - landed to: https://tableau.schneider-electric.com/#/workbooks/39896/extractRefreshes
+2024-05-27 10:46:27,789 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:28,848 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:29,886 - INFO - old priority deleted
+2024-05-27 10:46:30,934 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:30,990 - INFO - priority changed, confirming click done
+2024-05-27 10:46:33,000 - INFO - row 95 - landed to: https://tableau.schneider-electric.com/#/workbooks/91095/extractRefreshes
+2024-05-27 10:46:34,065 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:35,135 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:36,158 - INFO - old priority deleted
+2024-05-27 10:46:37,193 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:37,248 - INFO - priority changed, confirming click done
+2024-05-27 10:46:39,262 - INFO - row 96 - landed to: https://tableau.schneider-electric.com/#/workbooks/69611/extractRefreshes
+2024-05-27 10:46:40,314 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:41,374 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:42,463 - INFO - old priority deleted
+2024-05-27 10:46:43,499 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:43,557 - INFO - priority changed, confirming click done
+2024-05-27 10:46:45,569 - INFO - row 97 - landed to: https://tableau.schneider-electric.com/#/workbooks/85417/extractRefreshes
+2024-05-27 10:46:46,635 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:47,703 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:48,747 - INFO - old priority deleted
+2024-05-27 10:46:49,789 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:49,839 - INFO - priority changed, confirming click done
+2024-05-27 10:46:51,849 - INFO - row 98 - landed to: https://tableau.schneider-electric.com/#/workbooks/59815/extractRefreshes
+2024-05-27 10:46:52,916 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:46:53,984 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:46:55,019 - INFO - old priority deleted
+2024-05-27 10:46:56,057 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:46:56,115 - INFO - priority changed, confirming click done
+2024-05-27 10:46:58,126 - INFO - row 99 - landed to: https://tableau.schneider-electric.com/#/workbooks/83939/extractRefreshes
+2024-05-27 10:46:59,190 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:00,264 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:01,295 - INFO - old priority deleted
+2024-05-27 10:47:02,344 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:02,399 - INFO - priority changed, confirming click done
+2024-05-27 10:47:04,411 - INFO - row 100 - landed to: https://tableau.schneider-electric.com/#/workbooks/73926/extractRefreshes
+2024-05-27 10:47:05,475 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:06,540 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:07,557 - INFO - old priority deleted
+2024-05-27 10:47:08,579 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:08,631 - INFO - priority changed, confirming click done
+2024-05-27 10:47:10,644 - INFO - row 101 - landed to: https://tableau.schneider-electric.com/#/workbooks/90442/extractRefreshes
+2024-05-27 10:47:11,711 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:12,777 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:13,816 - INFO - old priority deleted
+2024-05-27 10:47:14,861 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:14,921 - INFO - priority changed, confirming click done
+2024-05-27 10:47:16,945 - INFO - row 102 - landed to: https://tableau.schneider-electric.com/#/datasources/4489905/extractRefreshes
+2024-05-27 10:47:18,005 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:19,108 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:20,138 - INFO - old priority deleted
+2024-05-27 10:47:21,174 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:21,222 - INFO - priority changed, confirming click done
+2024-05-27 10:47:23,242 - INFO - row 103 - landed to: https://tableau.schneider-electric.com/#/datasources/4915191/extractRefreshes
+2024-05-27 10:47:24,312 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:25,389 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:26,427 - INFO - old priority deleted
+2024-05-27 10:47:27,461 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:27,517 - INFO - priority changed, confirming click done
+2024-05-27 10:47:29,529 - INFO - row 104 - landed to: https://tableau.schneider-electric.com/#/datasources/4489586/extractRefreshes
+2024-05-27 10:47:30,588 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:31,653 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:32,691 - INFO - old priority deleted
+2024-05-27 10:47:33,737 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:33,792 - INFO - priority changed, confirming click done
+2024-05-27 10:47:35,807 - INFO - row 105 - landed to: https://tableau.schneider-electric.com/#/datasources/4865501/extractRefreshes
+2024-05-27 10:47:36,942 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:38,009 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:39,049 - INFO - old priority deleted
+2024-05-27 10:47:40,090 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:40,130 - INFO - priority changed, confirming click done
+2024-05-27 10:47:42,144 - INFO - row 106 - landed to: https://tableau.schneider-electric.com/#/datasources/4514300/extractRefreshes
+2024-05-27 10:47:43,205 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:44,276 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:45,314 - INFO - old priority deleted
+2024-05-27 10:47:46,353 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:46,412 - INFO - priority changed, confirming click done
+2024-05-27 10:47:48,439 - INFO - row 107 - landed to: https://tableau.schneider-electric.com/#/workbooks/90489/extractRefreshes
+2024-05-27 10:47:49,502 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:50,578 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:51,605 - INFO - old priority deleted
+2024-05-27 10:47:52,646 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:52,702 - INFO - priority changed, confirming click done
+2024-05-27 10:47:54,712 - INFO - row 108 - landed to: https://tableau.schneider-electric.com/#/workbooks/60828/extractRefreshes
+2024-05-27 10:47:55,771 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:47:56,852 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:47:57,890 - INFO - old priority deleted
+2024-05-27 10:47:58,937 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:47:58,990 - INFO - priority changed, confirming click done
+2024-05-27 10:48:01,000 - INFO - row 109 - landed to: https://tableau.schneider-electric.com/#/site/EnterpriseDataQualityPortal/workbooks/72064/extractRefreshes
+2024-05-27 10:48:02,064 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:03,141 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:04,181 - INFO - old priority deleted
+2024-05-27 10:48:05,226 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:05,287 - INFO - priority changed, confirming click done
+2024-05-27 10:48:07,299 - INFO - row 110 - landed to: https://tableau.schneider-electric.com/#/site/EnterpriseDataQualityPortal/workbooks/85813/extractRefreshes
+2024-05-27 10:48:08,365 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:09,444 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:10,480 - INFO - old priority deleted
+2024-05-27 10:48:11,526 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:11,585 - INFO - priority changed, confirming click done
+2024-05-27 10:48:13,595 - INFO - row 111 - landed to: https://tableau.schneider-electric.com/#/site/ETOSmartfactoryBI/workbooks/80332/extractRefreshes
+2024-05-27 10:48:14,652 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:15,726 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:16,763 - INFO - old priority deleted
+2024-05-27 10:48:17,796 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:17,841 - INFO - priority changed, confirming click done
+2024-05-27 10:48:19,853 - INFO - row 112 - landed to: https://tableau.schneider-electric.com/#/site/ETOSmartfactoryBI/workbooks/72262/extractRefreshes
+2024-05-27 10:48:20,921 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:21,991 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:23,029 - INFO - old priority deleted
+2024-05-27 10:48:24,076 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:24,131 - INFO - priority changed, confirming click done
+2024-05-27 10:48:26,143 - INFO - row 113 - landed to: https://tableau.schneider-electric.com/#/site/ExchangeandDSCInsights/workbooks/62827/extractRefreshes
+2024-05-27 10:48:27,205 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:28,274 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:29,310 - INFO - old priority deleted
+2024-05-27 10:48:30,350 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:30,407 - INFO - priority changed, confirming click done
+2024-05-27 10:48:32,418 - INFO - row 114 - landed to: https://tableau.schneider-electric.com/#/site/ExchangeandDSCInsights/workbooks/51290/extractRefreshes
+2024-05-27 10:48:33,481 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:34,554 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:35,595 - INFO - old priority deleted
+2024-05-27 10:48:36,636 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:36,690 - INFO - priority changed, confirming click done
+2024-05-27 10:48:38,700 - INFO - row 115 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/85796/extractRefreshes
+2024-05-27 10:48:39,748 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:40,822 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:41,858 - INFO - old priority deleted
+2024-05-27 10:48:42,902 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:42,960 - INFO - priority changed, confirming click done
+2024-05-27 10:48:44,970 - INFO - row 116 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/55097/extractRefreshes
+2024-05-27 10:48:46,043 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:46,090 - ERROR - NOT cliked on the action-menu-tasks-priority-MenuItem, error Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.77); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF798201F52+60322]
+	(No symbol) [0x00007FF79817CEC9]
+	(No symbol) [0x00007FF798037EBA]
+	(No symbol) [0x00007FF79803DCEE]
+	(No symbol) [0x00007FF798040641]
+	(No symbol) [0x00007FF7980406E0]
+	(No symbol) [0x00007FF79808733B]
+	(No symbol) [0x00007FF79808773C]
+	(No symbol) [0x00007FF79807AEEC]
+	(No symbol) [0x00007FF7980AC25F]
+	(No symbol) [0x00007FF79807ADB6]
+	(No symbol) [0x00007FF7980AC430]
+	(No symbol) [0x00007FF7980CBC80]
+	(No symbol) [0x00007FF7980ABFC3]
+	(No symbol) [0x00007FF798079617]
+	(No symbol) [0x00007FF79807A211]
+	GetHandleVerifier [0x00007FF79851949D+3301613]
+	GetHandleVerifier [0x00007FF7985636C3+3605267]
+	GetHandleVerifier [0x00007FF798559440+3563664]
+	GetHandleVerifier [0x00007FF7982B4326+790390]
+	(No symbol) [0x00007FF79818750F]
+	(No symbol) [0x00007FF798183404]
+	(No symbol) [0x00007FF798183592]
+	(No symbol) [0x00007FF798172F9F]
+	(No symbol) [0x00007FFC248B7344]
+	RtlUserThreadStart [0x00007FFC24B226B1+33]
+
+2024-05-27 10:48:48,097 - INFO - row 117 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/55097/extractRefreshes
+2024-05-27 10:48:49,217 - ERROR - NOT cliked on the actionsmenu-cell button, error Message: element click intercepted: Element <div aria-colindex="3" aria-rowindex="3" aria-selected="false" class="tb-react-dg-bcell" data-tb-test-id="actionsmenu-cell" tabindex="-1" role="gridcell" style="border-bottom: 1px solid transparent; border-right: 1px solid transparent; box-sizing: border-box; display: inline-block; height: 44px; line-height: 44px; vertical-align: top; width: 66px;">...</div> is not clickable at point (347, 426). Other element would receive the click: <span class="fmr9akn"></span>
+  (Session info: chrome=125.0.6422.77)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798201F52+60322]
+	(No symbol) [0x00007FF79817CEC9]
+	(No symbol) [0x00007FF798037EBA]
+	(No symbol) [0x00007FF79808F32E]
+	(No symbol) [0x00007FF79808CCF2]
+	(No symbol) [0x00007FF79808A18B]
+	(No symbol) [0x00007FF798089356]
+	(No symbol) [0x00007FF79807B491]
+	(No symbol) [0x00007FF7980AC21A]
+	(No symbol) [0x00007FF79807ADB6]
+	(No symbol) [0x00007FF7980AC430]
+	(No symbol) [0x00007FF7980CBC80]
+	(No symbol) [0x00007FF7980ABFC3]
+	(No symbol) [0x00007FF798079617]
+	(No symbol) [0x00007FF79807A211]
+	GetHandleVerifier [0x00007FF79851949D+3301613]
+	GetHandleVerifier [0x00007FF7985636C3+3605267]
+	GetHandleVerifier [0x00007FF798559440+3563664]
+	GetHandleVerifier [0x00007FF7982B4326+790390]
+	(No symbol) [0x00007FF79818750F]
+	(No symbol) [0x00007FF798183404]
+	(No symbol) [0x00007FF798183592]
+	(No symbol) [0x00007FF798172F9F]
+	(No symbol) [0x00007FFC248B7344]
+	RtlUserThreadStart [0x00007FFC24B226B1+33]
+
+2024-05-27 10:48:51,234 - INFO - row 118 - landed to: https://tableau.schneider-electric.com/#/site/GFSCommercial/datasources/5137970/extractRefreshes
+2024-05-27 10:48:52,289 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:53,360 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:48:54,401 - INFO - old priority deleted
+2024-05-27 10:48:55,447 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:48:55,506 - INFO - priority changed, confirming click done
+2024-05-27 10:48:57,530 - INFO - row 119 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/4711402/extractRefreshes
+2024-05-27 10:48:58,605 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:48:59,676 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:00,716 - INFO - old priority deleted
+2024-05-27 10:49:01,747 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:01,804 - INFO - priority changed, confirming click done
+2024-05-27 10:49:03,817 - INFO - row 120 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5145342/extractRefreshes
+2024-05-27 10:49:04,886 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:05,967 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:07,004 - INFO - old priority deleted
+2024-05-27 10:49:08,039 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:08,101 - INFO - priority changed, confirming click done
+2024-05-27 10:49:10,113 - INFO - row 121 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/workbooks/69388/extractRefreshes
+2024-05-27 10:49:11,169 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:12,246 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:13,278 - INFO - old priority deleted
+2024-05-27 10:49:14,328 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:14,385 - INFO - priority changed, confirming click done
+2024-05-27 10:49:16,396 - INFO - row 122 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5139108/extractRefreshes
+2024-05-27 10:49:17,456 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:18,528 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:19,563 - INFO - old priority deleted
+2024-05-27 10:49:20,598 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:20,643 - INFO - priority changed, confirming click done
+2024-05-27 10:49:22,659 - INFO - row 123 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5141271/extractRefreshes
+2024-05-27 10:49:23,719 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:24,794 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:25,832 - INFO - old priority deleted
+2024-05-27 10:49:26,878 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:26,939 - INFO - priority changed, confirming click done
+2024-05-27 10:49:28,954 - INFO - row 124 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5144209/extractRefreshes
+2024-05-27 10:49:30,017 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:31,090 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:32,130 - INFO - old priority deleted
+2024-05-27 10:49:33,177 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:33,232 - INFO - priority changed, confirming click done
+2024-05-27 10:49:35,250 - INFO - row 125 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5138489/extractRefreshes
+2024-05-27 10:49:36,314 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:37,384 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:38,422 - INFO - old priority deleted
+2024-05-27 10:49:39,467 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:39,511 - INFO - priority changed, confirming click done
+2024-05-27 10:49:41,527 - INFO - row 126 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5145452/extractRefreshes
+2024-05-27 10:49:42,597 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:43,669 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:44,701 - INFO - old priority deleted
+2024-05-27 10:49:45,741 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:45,799 - INFO - priority changed, confirming click done
+2024-05-27 10:49:47,811 - INFO - row 127 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/workbooks/86183/extractRefreshes
+2024-05-27 10:49:48,881 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:49,951 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:50,985 - INFO - old priority deleted
+2024-05-27 10:49:52,031 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:52,092 - INFO - priority changed, confirming click done
+2024-05-27 10:49:54,098 - INFO - row 128 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/workbooks/86183/extractRefreshes
+2024-05-27 10:49:55,166 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:49:56,224 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:49:57,266 - INFO - old priority deleted
+2024-05-27 10:49:58,313 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:49:58,375 - INFO - priority changed, confirming click done
+2024-05-27 10:50:00,419 - INFO - row 129 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5139437/extractRefreshes
+2024-05-27 10:50:01,483 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:02,559 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:03,598 - INFO - old priority deleted
+2024-05-27 10:50:04,642 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:04,705 - INFO - priority changed, confirming click done
+2024-05-27 10:50:06,717 - INFO - row 130 - landed to: https://tableau.schneider-electric.com/#/site/ETSCPAnalytics/datasources/5141302/extractRefreshes
+2024-05-27 10:50:07,781 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:08,851 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:09,883 - INFO - old priority deleted
+2024-05-27 10:50:10,931 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:10,985 - INFO - priority changed, confirming click done
+2024-05-27 10:50:12,994 - INFO - row 131 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/17379/extractRefreshes
+2024-05-27 10:50:14,059 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:15,131 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:16,170 - INFO - old priority deleted
+2024-05-27 10:50:17,215 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:17,270 - INFO - priority changed, confirming click done
+2024-05-27 10:50:19,283 - INFO - row 132 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/34286/extractRefreshes
+2024-05-27 10:50:20,346 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:21,417 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:22,457 - INFO - old priority deleted
+2024-05-27 10:50:23,491 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:23,546 - INFO - priority changed, confirming click done
+2024-05-27 10:50:25,559 - INFO - row 133 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/25237/extractRefreshes
+2024-05-27 10:50:26,620 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:27,697 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:28,731 - INFO - old priority deleted
+2024-05-27 10:50:29,774 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:29,827 - INFO - priority changed, confirming click done
+2024-05-27 10:50:31,837 - INFO - row 134 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/81869/extractRefreshes
+2024-05-27 10:50:32,908 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:33,974 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:35,013 - INFO - old priority deleted
+2024-05-27 10:50:36,046 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:36,100 - INFO - priority changed, confirming click done
+2024-05-27 10:50:38,111 - INFO - row 135 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/53302/extractRefreshes
+2024-05-27 10:50:39,176 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:40,246 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:41,281 - INFO - old priority deleted
+2024-05-27 10:50:42,312 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:42,359 - INFO - priority changed, confirming click done
+2024-05-27 10:50:44,364 - INFO - row 136 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/53302/extractRefreshes
+2024-05-27 10:50:45,431 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:46,510 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:47,546 - INFO - old priority deleted
+2024-05-27 10:50:48,591 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:48,648 - INFO - priority changed, confirming click done
+2024-05-27 10:50:50,655 - INFO - row 137 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/53302/extractRefreshes
+2024-05-27 10:50:51,716 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:52,781 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:50:53,812 - INFO - old priority deleted
+2024-05-27 10:50:54,858 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:50:54,918 - INFO - priority changed, confirming click done
+2024-05-27 10:50:56,931 - INFO - row 138 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/34291/extractRefreshes
+2024-05-27 10:50:57,991 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:50:59,066 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:00,103 - INFO - old priority deleted
+2024-05-27 10:51:01,149 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:01,281 - INFO - priority changed, confirming click done
+2024-05-27 10:51:03,293 - INFO - row 139 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/47488/extractRefreshes
+2024-05-27 10:51:04,358 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:05,431 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:06,470 - INFO - old priority deleted
+2024-05-27 10:51:07,512 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:07,566 - INFO - priority changed, confirming click done
+2024-05-27 10:51:09,578 - INFO - row 140 - landed to: https://tableau.schneider-electric.com/#/site/GlobalFiSSKPIPortal/workbooks/19094/extractRefreshes
+2024-05-27 10:51:10,644 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:11,721 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:12,759 - INFO - old priority deleted
+2024-05-27 10:51:13,806 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:13,869 - INFO - priority changed, confirming click done
+2024-05-27 10:51:15,878 - INFO - row 141 - landed to: https://tableau.schneider-electric.com/#/site/GlobalHealthandSafety/workbooks/73846/extractRefreshes
+2024-05-27 10:51:16,938 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:18,079 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:19,119 - INFO - old priority deleted
+2024-05-27 10:51:20,166 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:20,214 - INFO - priority changed, confirming click done
+2024-05-27 10:51:22,226 - INFO - row 142 - landed to: https://tableau.schneider-electric.com/#/site/GlobalHealthandSafety/workbooks/61454/extractRefreshes
+2024-05-27 10:51:23,293 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:24,367 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:25,400 - INFO - old priority deleted
+2024-05-27 10:51:26,440 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:26,496 - INFO - priority changed, confirming click done
+2024-05-27 10:51:28,505 - INFO - row 143 - landed to: https://tableau.schneider-electric.com/#/site/GreaterIndiaDataOffice/workbooks/90185/extractRefreshes
+2024-05-27 10:51:29,572 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:30,646 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:31,686 - INFO - old priority deleted
+2024-05-27 10:51:32,730 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:32,778 - INFO - priority changed, confirming click done
+2024-05-27 10:51:34,790 - INFO - row 144 - landed to: https://tableau.schneider-electric.com/#/site/GreaterIndiaDataOffice/workbooks/81481/extractRefreshes
+2024-05-27 10:51:35,854 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:36,915 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:37,952 - INFO - old priority deleted
+2024-05-27 10:51:39,000 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:39,052 - INFO - priority changed, confirming click done
+2024-05-27 10:51:41,063 - INFO - row 145 - landed to: https://tableau.schneider-electric.com/#/site/GreaterIndiaDataOffice/workbooks/85098/extractRefreshes
+2024-05-27 10:51:42,662 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:43,726 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:44,767 - INFO - old priority deleted
+2024-05-27 10:51:45,812 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:45,863 - INFO - priority changed, confirming click done
+2024-05-27 10:51:47,872 - INFO - row 146 - landed to: https://tableau.schneider-electric.com/#/site/GreenBerry/datasources/4828588/extractRefreshes
+2024-05-27 10:51:48,928 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:50,006 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:51,042 - INFO - old priority deleted
+2024-05-27 10:51:52,088 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:52,140 - INFO - priority changed, confirming click done
+2024-05-27 10:51:54,154 - INFO - row 147 - landed to: https://tableau.schneider-electric.com/#/site/GreenBerry/datasources/5091463/extractRefreshes
+2024-05-27 10:51:55,216 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:51:56,295 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:51:57,334 - INFO - old priority deleted
+2024-05-27 10:51:58,376 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:51:58,435 - INFO - priority changed, confirming click done
+2024-05-27 10:52:00,448 - INFO - row 148 - landed to: https://tableau.schneider-electric.com/#/site/GreenBerry/datasources/5144537/extractRefreshes
+2024-05-27 10:52:01,510 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:02,582 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:03,619 - INFO - old priority deleted
+2024-05-27 10:52:04,660 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:04,722 - INFO - priority changed, confirming click done
+2024-05-27 10:52:06,748 - INFO - row 149 - landed to: https://tableau.schneider-electric.com/#/site/GreenBerry/workbooks/75030/extractRefreshes
+2024-05-27 10:52:07,816 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:08,889 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:09,998 - INFO - old priority deleted
+2024-05-27 10:52:11,043 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:11,096 - INFO - priority changed, confirming click done
+2024-05-27 10:52:13,105 - INFO - row 150 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/5104001/extractRefreshes
+2024-05-27 10:52:14,169 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:15,234 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:16,273 - INFO - old priority deleted
+2024-05-27 10:52:17,304 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:17,357 - INFO - priority changed, confirming click done
+2024-05-27 10:52:19,369 - INFO - row 151 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/5104075/extractRefreshes
+2024-05-27 10:52:20,434 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:21,497 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:22,522 - INFO - old priority deleted
+2024-05-27 10:52:23,563 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:23,617 - INFO - priority changed, confirming click done
+2024-05-27 10:52:25,630 - INFO - row 152 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/76524/extractRefreshes
+2024-05-27 10:52:26,691 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:27,754 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:28,783 - INFO - old priority deleted
+2024-05-27 10:52:29,829 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:29,885 - INFO - priority changed, confirming click done
+2024-05-27 10:52:31,896 - INFO - row 153 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/4940114/extractRefreshes
+2024-05-27 10:52:33,477 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:34,540 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:35,578 - INFO - old priority deleted
+2024-05-27 10:52:36,621 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:36,672 - INFO - priority changed, confirming click done
+2024-05-27 10:52:38,687 - INFO - row 154 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/4938340/extractRefreshes
+2024-05-27 10:52:39,751 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:40,821 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:41,858 - INFO - old priority deleted
+2024-05-27 10:52:42,901 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:42,953 - INFO - priority changed, confirming click done
+2024-05-27 10:52:44,964 - INFO - row 155 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/50812/extractRefreshes
+2024-05-27 10:52:46,034 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:47,100 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:48,133 - INFO - old priority deleted
+2024-05-27 10:52:49,173 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:49,222 - INFO - priority changed, confirming click done
+2024-05-27 10:52:51,235 - INFO - row 156 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/75674/extractRefreshes
+2024-05-27 10:52:52,320 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:53,374 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:52:54,404 - INFO - old priority deleted
+2024-05-27 10:52:55,447 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:52:55,500 - INFO - priority changed, confirming click done
+2024-05-27 10:52:57,505 - INFO - row 157 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/75674/extractRefreshes
+2024-05-27 10:52:58,576 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:52:59,652 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:00,690 - INFO - old priority deleted
+2024-05-27 10:53:01,725 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:01,777 - INFO - priority changed, confirming click done
+2024-05-27 10:53:03,820 - INFO - row 158 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/3382500/extractRefreshes
+2024-05-27 10:53:04,883 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:05,950 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:06,985 - INFO - old priority deleted
+2024-05-27 10:53:08,022 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:08,078 - INFO - priority changed, confirming click done
+2024-05-27 10:53:10,083 - INFO - row 159 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/3382500/extractRefreshes
+2024-05-27 10:53:11,150 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:12,223 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:13,259 - INFO - old priority deleted
+2024-05-27 10:53:14,296 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:14,354 - INFO - priority changed, confirming click done
+2024-05-27 10:53:16,367 - INFO - row 160 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/60353/extractRefreshes
+2024-05-27 10:53:17,433 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:18,505 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:19,535 - INFO - old priority deleted
+2024-05-27 10:53:20,576 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:20,635 - INFO - priority changed, confirming click done
+2024-05-27 10:53:22,640 - INFO - row 161 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/60353/extractRefreshes
+2024-05-27 10:53:23,707 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:24,780 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:25,809 - INFO - old priority deleted
+2024-05-27 10:53:26,845 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:26,897 - INFO - priority changed, confirming click done
+2024-05-27 10:53:28,903 - INFO - row 162 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/60353/extractRefreshes
+2024-05-27 10:53:29,963 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:31,033 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:32,067 - INFO - old priority deleted
+2024-05-27 10:53:33,108 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:33,162 - INFO - priority changed, confirming click done
+2024-05-27 10:53:35,175 - INFO - row 163 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/81936/extractRefreshes
+2024-05-27 10:53:36,235 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:37,307 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:38,343 - INFO - old priority deleted
+2024-05-27 10:53:39,375 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:39,431 - INFO - priority changed, confirming click done
+2024-05-27 10:53:41,436 - INFO - row 164 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/81936/extractRefreshes
+2024-05-27 10:53:42,505 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:43,580 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:44,620 - INFO - old priority deleted
+2024-05-27 10:53:45,652 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:45,697 - INFO - priority changed, confirming click done
+2024-05-27 10:53:47,711 - INFO - row 165 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/5095789/extractRefreshes
+2024-05-27 10:53:50,326 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:51,400 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:52,436 - INFO - old priority deleted
+2024-05-27 10:53:53,479 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:53,537 - INFO - priority changed, confirming click done
+2024-05-27 10:53:55,548 - INFO - row 166 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/82039/extractRefreshes
+2024-05-27 10:53:56,610 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:53:57,686 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:53:58,726 - INFO - old priority deleted
+2024-05-27 10:53:59,773 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:53:59,830 - INFO - priority changed, confirming click done
+2024-05-27 10:54:01,836 - INFO - row 167 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/82039/extractRefreshes
+2024-05-27 10:54:02,902 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:03,975 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:05,013 - INFO - old priority deleted
+2024-05-27 10:54:06,060 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:06,117 - INFO - priority changed, confirming click done
+2024-05-27 10:54:08,129 - INFO - row 168 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/29404/extractRefreshes
+2024-05-27 10:54:09,201 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:10,274 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:11,308 - INFO - old priority deleted
+2024-05-27 10:54:12,356 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:12,418 - INFO - priority changed, confirming click done
+2024-05-27 10:54:14,429 - INFO - row 169 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/5083922/extractRefreshes
+2024-05-27 10:54:15,491 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:16,570 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:17,606 - INFO - old priority deleted
+2024-05-27 10:54:18,653 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:18,700 - INFO - priority changed, confirming click done
+2024-05-27 10:54:20,710 - INFO - row 170 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/46743/extractRefreshes
+2024-05-27 10:54:21,772 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:22,844 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:23,885 - INFO - old priority deleted
+2024-05-27 10:54:24,916 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:24,966 - INFO - priority changed, confirming click done
+2024-05-27 10:54:26,979 - INFO - row 171 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/69557/extractRefreshes
+2024-05-27 10:54:28,043 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:29,110 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:30,147 - INFO - old priority deleted
+2024-05-27 10:54:31,194 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:31,251 - INFO - priority changed, confirming click done
+2024-05-27 10:54:33,260 - INFO - row 172 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/5064956/extractRefreshes
+2024-05-27 10:54:34,326 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:35,403 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:36,440 - INFO - old priority deleted
+2024-05-27 10:54:37,477 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:37,526 - INFO - priority changed, confirming click done
+2024-05-27 10:54:39,612 - INFO - row 173 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/datasources/5064956/extractRefreshes
+2024-05-27 10:54:40,682 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:41,755 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:42,792 - INFO - old priority deleted
+2024-05-27 10:54:43,824 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:43,878 - INFO - priority changed, confirming click done
+2024-05-27 10:54:45,890 - INFO - row 174 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/55149/extractRefreshes
+2024-05-27 10:54:46,957 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:48,019 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:49,049 - INFO - old priority deleted
+2024-05-27 10:54:50,090 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:50,149 - INFO - priority changed, confirming click done
+2024-05-27 10:54:52,159 - INFO - row 175 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/33268/extractRefreshes
+2024-05-27 10:54:53,229 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:54:54,298 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:54:55,333 - INFO - old priority deleted
+2024-05-27 10:54:56,376 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:54:56,432 - INFO - priority changed, confirming click done
+2024-05-27 10:54:58,446 - INFO - row 176 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/85875/extractRefreshes
+2024-05-27 10:54:59,510 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:00,579 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:01,619 - INFO - old priority deleted
+2024-05-27 10:55:02,664 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:02,727 - INFO - priority changed, confirming click done
+2024-05-27 10:55:04,737 - INFO - row 177 - landed to: https://tableau.schneider-electric.com/#/site/DARTDigital/workbooks/82389/extractRefreshes
+2024-05-27 10:55:05,801 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:06,879 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:07,918 - INFO - old priority deleted
+2024-05-27 10:55:08,963 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:09,012 - INFO - priority changed, confirming click done
+2024-05-27 10:55:11,021 - INFO - row 178 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/63617/extractRefreshes
+2024-05-27 10:55:12,082 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:13,252 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:14,288 - INFO - old priority deleted
+2024-05-27 10:55:15,333 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:15,388 - INFO - priority changed, confirming click done
+2024-05-27 10:55:17,399 - INFO - row 179 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/64597/extractRefreshes
+2024-05-27 10:55:20,559 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:21,633 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:22,669 - INFO - old priority deleted
+2024-05-27 10:55:23,703 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:23,761 - INFO - priority changed, confirming click done
+2024-05-27 10:55:25,775 - INFO - row 180 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/82050/extractRefreshes
+2024-05-27 10:55:26,838 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:27,905 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:28,937 - INFO - old priority deleted
+2024-05-27 10:55:29,981 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:30,027 - INFO - priority changed, confirming click done
+2024-05-27 10:55:32,040 - INFO - row 181 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/85315/extractRefreshes
+2024-05-27 10:55:33,097 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:34,166 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:35,197 - INFO - old priority deleted
+2024-05-27 10:55:36,229 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:36,274 - INFO - priority changed, confirming click done
+2024-05-27 10:55:38,285 - INFO - row 182 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/64596/extractRefreshes
+2024-05-27 10:55:39,414 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:40,483 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:41,519 - INFO - old priority deleted
+2024-05-27 10:55:42,560 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:42,610 - INFO - priority changed, confirming click done
+2024-05-27 10:55:44,623 - INFO - row 183 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/90315/extractRefreshes
+2024-05-27 10:55:45,685 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:46,757 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:47,783 - INFO - old priority deleted
+2024-05-27 10:55:48,825 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:48,873 - INFO - priority changed, confirming click done
+2024-05-27 10:55:50,887 - INFO - row 184 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/81874/extractRefreshes
+2024-05-27 10:55:51,951 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:53,021 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:55:54,058 - INFO - old priority deleted
+2024-05-27 10:55:55,098 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:55:55,156 - INFO - priority changed, confirming click done
+2024-05-27 10:55:57,168 - INFO - row 185 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/83106/extractRefreshes
+2024-05-27 10:55:58,234 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:55:59,306 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:00,334 - INFO - old priority deleted
+2024-05-27 10:56:01,382 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:01,441 - INFO - priority changed, confirming click done
+2024-05-27 10:56:03,466 - INFO - row 186 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/4906332/extractRefreshes
+2024-05-27 10:56:04,528 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:05,604 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:06,644 - INFO - old priority deleted
+2024-05-27 10:56:07,686 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:07,744 - INFO - priority changed, confirming click done
+2024-05-27 10:56:09,771 - INFO - row 187 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/72180/extractRefreshes
+2024-05-27 10:56:10,842 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:11,912 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:12,949 - INFO - old priority deleted
+2024-05-27 10:56:13,997 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:14,046 - INFO - priority changed, confirming click done
+2024-05-27 10:56:16,057 - INFO - row 188 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/72069/extractRefreshes
+2024-05-27 10:56:17,113 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:18,181 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:19,219 - INFO - old priority deleted
+2024-05-27 10:56:20,264 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:20,323 - INFO - priority changed, confirming click done
+2024-05-27 10:56:22,328 - INFO - row 189 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/72069/extractRefreshes
+2024-05-27 10:56:23,396 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:24,475 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:25,510 - INFO - old priority deleted
+2024-05-27 10:56:26,555 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:26,616 - INFO - priority changed, confirming click done
+2024-05-27 10:56:28,660 - INFO - row 190 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/4906320/extractRefreshes
+2024-05-27 10:56:29,723 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:30,795 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:31,834 - INFO - old priority deleted
+2024-05-27 10:56:32,877 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:32,931 - INFO - priority changed, confirming click done
+2024-05-27 10:56:34,941 - INFO - row 191 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/85209/extractRefreshes
+2024-05-27 10:56:36,003 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:37,080 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:38,109 - INFO - old priority deleted
+2024-05-27 10:56:39,137 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:39,199 - INFO - priority changed, confirming click done
+2024-05-27 10:56:41,211 - INFO - row 192 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/90991/extractRefreshes
+2024-05-27 10:56:42,268 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:43,339 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:44,374 - INFO - old priority deleted
+2024-05-27 10:56:45,417 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:45,473 - INFO - priority changed, confirming click done
+2024-05-27 10:56:47,486 - INFO - row 193 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/5066087/extractRefreshes
+2024-05-27 10:56:48,541 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:49,617 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:50,644 - INFO - old priority deleted
+2024-05-27 10:56:51,665 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:51,715 - INFO - priority changed, confirming click done
+2024-05-27 10:56:53,725 - INFO - row 194 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/89360/extractRefreshes
+2024-05-27 10:56:54,789 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:56:55,860 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:56:56,898 - INFO - old priority deleted
+2024-05-27 10:56:57,945 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:56:58,012 - INFO - priority changed, confirming click done
+2024-05-27 10:57:00,018 - INFO - row 195 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/89360/extractRefreshes
+2024-05-27 10:57:01,069 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:02,139 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:03,169 - INFO - old priority deleted
+2024-05-27 10:57:04,212 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:04,273 - INFO - priority changed, confirming click done
+2024-05-27 10:57:06,288 - INFO - row 196 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/89197/extractRefreshes
+2024-05-27 10:57:07,352 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:08,428 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:09,464 - INFO - old priority deleted
+2024-05-27 10:57:10,503 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:10,560 - INFO - priority changed, confirming click done
+2024-05-27 10:57:12,572 - INFO - row 197 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/72116/extractRefreshes
+2024-05-27 10:57:13,632 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:14,689 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:15,727 - INFO - old priority deleted
+2024-05-27 10:57:16,769 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:16,820 - INFO - priority changed, confirming click done
+2024-05-27 10:57:18,833 - INFO - row 198 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/90984/extractRefreshes
+2024-05-27 10:57:20,412 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:21,469 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:22,507 - INFO - old priority deleted
+2024-05-27 10:57:23,551 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:23,610 - INFO - priority changed, confirming click done
+2024-05-27 10:57:25,621 - INFO - row 199 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/89016/extractRefreshes
+2024-05-27 10:57:26,680 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:27,756 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:28,794 - INFO - old priority deleted
+2024-05-27 10:57:29,830 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:29,890 - INFO - priority changed, confirming click done
+2024-05-27 10:57:31,903 - INFO - row 200 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/89346/extractRefreshes
+2024-05-27 10:57:32,967 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:34,044 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:35,082 - INFO - old priority deleted
+2024-05-27 10:57:36,131 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:36,194 - INFO - priority changed, confirming click done
+2024-05-27 10:57:38,199 - INFO - row 201 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/89346/extractRefreshes
+2024-05-27 10:57:39,265 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:40,320 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:41,359 - INFO - old priority deleted
+2024-05-27 10:57:42,402 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:42,465 - INFO - priority changed, confirming click done
+2024-05-27 10:57:44,478 - INFO - row 202 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/64586/extractRefreshes
+2024-05-27 10:57:45,540 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:46,613 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:47,652 - INFO - old priority deleted
+2024-05-27 10:57:48,689 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:48,835 - INFO - priority changed, confirming click done
+2024-05-27 10:57:50,843 - INFO - row 203 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/64586/extractRefreshes
+2024-05-27 10:57:51,900 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:52,963 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:57:53,982 - INFO - old priority deleted
+2024-05-27 10:57:55,016 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:57:55,074 - INFO - priority changed, confirming click done
+2024-05-27 10:57:57,087 - INFO - row 204 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/68354/extractRefreshes
+2024-05-27 10:57:58,247 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:57:59,312 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:00,340 - INFO - old priority deleted
+2024-05-27 10:58:01,357 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:01,391 - INFO - priority changed, confirming click done
+2024-05-27 10:58:03,408 - INFO - row 205 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/90319/extractRefreshes
+2024-05-27 10:58:04,461 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:05,513 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:06,542 - INFO - old priority deleted
+2024-05-27 10:58:07,574 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:07,628 - INFO - priority changed, confirming click done
+2024-05-27 10:58:09,640 - INFO - row 206 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/90450/extractRefreshes
+2024-05-27 10:58:10,705 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:11,763 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:12,850 - INFO - old priority deleted
+2024-05-27 10:58:13,879 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:13,925 - INFO - priority changed, confirming click done
+2024-05-27 10:58:15,939 - INFO - row 207 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/90451/extractRefreshes
+2024-05-27 10:58:16,993 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:18,165 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:19,198 - INFO - old priority deleted
+2024-05-27 10:58:20,244 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:20,303 - INFO - priority changed, confirming click done
+2024-05-27 10:58:22,327 - INFO - row 208 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/5003352/extractRefreshes
+2024-05-27 10:58:23,388 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:24,465 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:25,507 - INFO - old priority deleted
+2024-05-27 10:58:26,552 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:26,602 - INFO - priority changed, confirming click done
+2024-05-27 10:58:28,614 - INFO - row 209 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/5131910/extractRefreshes
+2024-05-27 10:58:29,677 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:30,743 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:31,767 - INFO - old priority deleted
+2024-05-27 10:58:32,825 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:32,876 - INFO - priority changed, confirming click done
+2024-05-27 10:58:34,912 - INFO - row 210 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/73325/extractRefreshes
+2024-05-27 10:58:35,974 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:37,045 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:38,076 - INFO - old priority deleted
+2024-05-27 10:58:39,119 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:39,162 - INFO - priority changed, confirming click done
+2024-05-27 10:58:41,175 - INFO - row 211 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/65902/extractRefreshes
+2024-05-27 10:58:42,232 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:43,290 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:44,323 - INFO - old priority deleted
+2024-05-27 10:58:45,355 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:45,405 - INFO - priority changed, confirming click done
+2024-05-27 10:58:47,417 - INFO - row 212 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/67414/extractRefreshes
+2024-05-27 10:58:48,475 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:49,539 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:50,575 - INFO - old priority deleted
+2024-05-27 10:58:51,616 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:51,670 - INFO - priority changed, confirming click done
+2024-05-27 10:58:53,682 - INFO - row 213 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/5122439/extractRefreshes
+2024-05-27 10:58:54,726 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:58:55,801 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:58:56,826 - INFO - old priority deleted
+2024-05-27 10:58:57,862 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:58:57,911 - INFO - priority changed, confirming click done
+2024-05-27 10:58:59,921 - INFO - row 214 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/83746/extractRefreshes
+2024-05-27 10:59:00,985 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:02,064 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:03,094 - INFO - old priority deleted
+2024-05-27 10:59:04,138 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:04,186 - INFO - priority changed, confirming click done
+2024-05-27 10:59:06,197 - INFO - row 215 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/5151863/extractRefreshes
+2024-05-27 10:59:07,251 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:08,318 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:09,361 - INFO - old priority deleted
+2024-05-27 10:59:10,406 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:10,446 - INFO - priority changed, confirming click done
+2024-05-27 10:59:12,456 - INFO - row 216 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/74493/extractRefreshes
+2024-05-27 10:59:13,513 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:14,585 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:15,626 - INFO - old priority deleted
+2024-05-27 10:59:16,677 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:16,735 - INFO - priority changed, confirming click done
+2024-05-27 10:59:18,741 - INFO - row 217 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/74493/extractRefreshes
+2024-05-27 10:59:19,800 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:20,873 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:21,913 - INFO - old priority deleted
+2024-05-27 10:59:22,962 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:23,019 - INFO - priority changed, confirming click done
+2024-05-27 10:59:25,063 - INFO - row 218 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/63615/extractRefreshes
+2024-05-27 10:59:26,129 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:27,191 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:28,226 - INFO - old priority deleted
+2024-05-27 10:59:29,250 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:29,296 - INFO - priority changed, confirming click done
+2024-05-27 10:59:31,309 - INFO - row 219 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/66058/extractRefreshes
+2024-05-27 10:59:32,406 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:33,475 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:34,505 - INFO - old priority deleted
+2024-05-27 10:59:35,542 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:35,599 - INFO - priority changed, confirming click done
+2024-05-27 10:59:37,605 - INFO - row 220 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/66058/extractRefreshes
+2024-05-27 10:59:38,679 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:39,757 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:40,815 - INFO - old priority deleted
+2024-05-27 10:59:41,856 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:41,916 - INFO - priority changed, confirming click done
+2024-05-27 10:59:43,922 - INFO - row 221 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/66058/extractRefreshes
+2024-05-27 10:59:44,986 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:46,065 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:47,098 - INFO - old priority deleted
+2024-05-27 10:59:48,143 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:48,200 - INFO - priority changed, confirming click done
+2024-05-27 10:59:50,216 - INFO - row 222 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/81142/extractRefreshes
+2024-05-27 10:59:51,273 - INFO - cliked on the actionsmenu-cell
+2024-05-27 10:59:52,345 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 10:59:53,374 - INFO - old priority deleted
+2024-05-27 10:59:54,415 - INFO - priority changed, waiting for confirming click
+2024-05-27 10:59:54,462 - INFO - priority changed, confirming click done
+2024-05-27 10:59:56,478 - INFO - row 223 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/5130007/extractRefreshes
+2024-05-27 10:59:59,089 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:00,161 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:01,192 - INFO - old priority deleted
+2024-05-27 11:00:02,233 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:02,286 - INFO - priority changed, confirming click done
+2024-05-27 11:00:04,296 - INFO - row 224 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/workbooks/81005/extractRefreshes
+2024-05-27 11:00:05,359 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:06,536 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:07,564 - INFO - old priority deleted
+2024-05-27 11:00:08,595 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:08,639 - INFO - priority changed, confirming click done
+2024-05-27 11:00:10,649 - INFO - row 225 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropePerformanceandDigitalAnalytics/datasources/4932625/extractRefreshes
+2024-05-27 11:00:11,710 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:12,779 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:13,806 - INFO - old priority deleted
+2024-05-27 11:00:14,828 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:14,887 - INFO - priority changed, confirming click done
+2024-05-27 11:00:16,896 - INFO - row 226 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/workbooks/14848/extractRefreshes
+2024-05-27 11:00:17,957 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:19,027 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:20,052 - INFO - old priority deleted
+2024-05-27 11:00:21,087 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:21,132 - INFO - priority changed, confirming click done
+2024-05-27 11:00:23,144 - INFO - row 227 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3693352/extractRefreshes
+2024-05-27 11:00:24,207 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:25,270 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:26,299 - INFO - old priority deleted
+2024-05-27 11:00:27,341 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:27,395 - INFO - priority changed, confirming click done
+2024-05-27 11:00:29,408 - INFO - row 228 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3666701/extractRefreshes
+2024-05-27 11:00:30,470 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:31,542 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:32,577 - INFO - old priority deleted
+2024-05-27 11:00:33,610 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:33,641 - INFO - priority changed, confirming click done
+2024-05-27 11:00:35,653 - INFO - row 229 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/2960835/extractRefreshes
+2024-05-27 11:00:36,708 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:37,789 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:38,821 - INFO - old priority deleted
+2024-05-27 11:00:39,861 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:39,918 - INFO - priority changed, confirming click done
+2024-05-27 11:00:41,936 - INFO - row 230 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3051919/extractRefreshes
+2024-05-27 11:00:43,112 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:44,170 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:45,207 - INFO - old priority deleted
+2024-05-27 11:00:46,252 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:46,308 - INFO - priority changed, confirming click done
+2024-05-27 11:00:48,322 - INFO - row 231 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3671519/extractRefreshes
+2024-05-27 11:00:49,391 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:50,465 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:51,497 - INFO - old priority deleted
+2024-05-27 11:00:52,547 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:52,599 - INFO - priority changed, confirming click done
+2024-05-27 11:00:54,612 - INFO - row 232 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3391776/extractRefreshes
+2024-05-27 11:00:55,686 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:00:56,747 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:00:57,772 - INFO - old priority deleted
+2024-05-27 11:00:58,800 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:00:58,849 - INFO - priority changed, confirming click done
+2024-05-27 11:01:00,863 - INFO - row 233 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3007360/extractRefreshes
+2024-05-27 11:01:01,921 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:03,002 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:04,034 - INFO - old priority deleted
+2024-05-27 11:01:05,063 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:05,118 - INFO - priority changed, confirming click done
+2024-05-27 11:01:07,135 - INFO - row 234 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3665909/extractRefreshes
+2024-05-27 11:01:08,197 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:09,252 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:10,279 - INFO - old priority deleted
+2024-05-27 11:01:11,302 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:11,347 - INFO - priority changed, confirming click done
+2024-05-27 11:01:13,361 - INFO - row 235 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3672606/extractRefreshes
+2024-05-27 11:01:14,422 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:15,491 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:16,528 - INFO - old priority deleted
+2024-05-27 11:01:17,565 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:17,625 - INFO - priority changed, confirming click done
+2024-05-27 11:01:19,637 - INFO - row 236 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/4844656/extractRefreshes
+2024-05-27 11:01:20,687 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:21,752 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:22,779 - INFO - old priority deleted
+2024-05-27 11:01:23,814 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:23,863 - INFO - priority changed, confirming click done
+2024-05-27 11:01:25,879 - INFO - row 237 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3683220/extractRefreshes
+2024-05-27 11:01:26,940 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:27,996 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:29,028 - INFO - old priority deleted
+2024-05-27 11:01:30,074 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:30,119 - INFO - priority changed, confirming click done
+2024-05-27 11:01:32,133 - INFO - row 238 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/4558454/extractRefreshes
+2024-05-27 11:01:33,185 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:34,294 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:35,314 - INFO - old priority deleted
+2024-05-27 11:01:36,343 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:36,391 - INFO - priority changed, confirming click done
+2024-05-27 11:01:38,406 - INFO - row 239 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/2525982/extractRefreshes
+2024-05-27 11:01:39,483 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:40,561 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:41,578 - INFO - old priority deleted
+2024-05-27 11:01:42,608 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:42,655 - INFO - priority changed, confirming click done
+2024-05-27 11:01:44,673 - INFO - row 240 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3900842/extractRefreshes
+2024-05-27 11:01:45,734 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:46,796 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:47,823 - INFO - old priority deleted
+2024-05-27 11:01:48,861 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:48,908 - INFO - priority changed, confirming click done
+2024-05-27 11:01:50,914 - INFO - row 241 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3900842/extractRefreshes
+2024-05-27 11:01:51,968 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:53,030 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:01:54,062 - INFO - old priority deleted
+2024-05-27 11:01:55,107 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:01:55,168 - INFO - priority changed, confirming click done
+2024-05-27 11:01:57,225 - INFO - row 242 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/2970244/extractRefreshes
+2024-05-27 11:01:58,289 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:01:59,348 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:00,384 - INFO - old priority deleted
+2024-05-27 11:02:01,428 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:01,491 - INFO - priority changed, confirming click done
+2024-05-27 11:02:03,515 - INFO - row 243 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3995975/extractRefreshes
+2024-05-27 11:02:04,578 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:05,657 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:06,689 - INFO - old priority deleted
+2024-05-27 11:02:07,730 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:07,786 - INFO - priority changed, confirming click done
+2024-05-27 11:02:09,798 - INFO - row 244 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3236441/extractRefreshes
+2024-05-27 11:02:10,974 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:12,055 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:13,091 - INFO - old priority deleted
+2024-05-27 11:02:14,124 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:14,182 - INFO - priority changed, confirming click done
+2024-05-27 11:02:16,195 - INFO - row 245 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/4584210/extractRefreshes
+2024-05-27 11:02:17,259 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:18,327 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:19,357 - INFO - old priority deleted
+2024-05-27 11:02:20,387 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:20,442 - INFO - priority changed, confirming click done
+2024-05-27 11:02:22,456 - INFO - row 246 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/3669072/extractRefreshes
+2024-05-27 11:02:23,518 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:24,582 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:25,623 - INFO - old priority deleted
+2024-05-27 11:02:26,667 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:26,723 - INFO - priority changed, confirming click done
+2024-05-27 11:02:28,739 - INFO - row 247 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/datasources/5018523/extractRefreshes
+2024-05-27 11:02:29,911 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:30,971 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:31,997 - INFO - old priority deleted
+2024-05-27 11:02:33,041 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:33,098 - INFO - priority changed, confirming click done
+2024-05-27 11:02:35,122 - INFO - row 248 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeAnalytics/workbooks/58739/extractRefreshes
+2024-05-27 11:02:36,187 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:37,258 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:38,286 - INFO - old priority deleted
+2024-05-27 11:02:39,309 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:39,365 - INFO - priority changed, confirming click done
+2024-05-27 11:02:41,373 - INFO - row 249 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeCSQAnalytics/workbooks/78675/extractRefreshes
+2024-05-27 11:02:42,437 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:43,513 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:44,553 - INFO - old priority deleted
+2024-05-27 11:02:45,594 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:45,643 - INFO - priority changed, confirming click done
+2024-05-27 11:02:47,655 - INFO - row 250 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeCSQAnalytics/workbooks/60012/extractRefreshes
+2024-05-27 11:02:48,718 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:49,792 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:50,822 - INFO - old priority deleted
+2024-05-27 11:02:51,871 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:51,929 - INFO - priority changed, confirming click done
+2024-05-27 11:02:53,938 - INFO - row 251 - landed to: https://tableau.schneider-electric.com/#/site/GSCEuropeProcurementControlTower/workbooks/53303/extractRefreshes
+2024-05-27 11:02:54,998 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:02:56,070 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:02:57,109 - INFO - old priority deleted
+2024-05-27 11:02:58,153 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:02:58,212 - INFO - priority changed, confirming click done
+2024-05-27 11:03:00,220 - INFO - row 252 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/89546/extractRefreshes
+2024-05-27 11:03:01,278 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:02,348 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:03,382 - INFO - old priority deleted
+2024-05-27 11:03:04,426 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:04,483 - INFO - priority changed, confirming click done
+2024-05-27 11:03:06,495 - INFO - row 253 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/86445/extractRefreshes
+2024-05-27 11:03:07,553 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:08,624 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:09,660 - INFO - old priority deleted
+2024-05-27 11:03:10,701 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:10,761 - INFO - priority changed, confirming click done
+2024-05-27 11:03:12,775 - INFO - row 254 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/72322/extractRefreshes
+2024-05-27 11:03:13,833 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:14,902 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:15,940 - INFO - old priority deleted
+2024-05-27 11:03:16,988 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:17,045 - INFO - priority changed, confirming click done
+2024-05-27 11:03:19,068 - INFO - row 255 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/datasources/5003573/extractRefreshes
+2024-05-27 11:03:20,131 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:21,211 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:22,248 - INFO - old priority deleted
+2024-05-27 11:03:23,292 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:23,343 - INFO - priority changed, confirming click done
+2024-05-27 11:03:25,353 - INFO - row 256 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/77710/extractRefreshes
+2024-05-27 11:03:26,419 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:27,490 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:28,532 - INFO - old priority deleted
+2024-05-27 11:03:29,574 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:29,627 - INFO - priority changed, confirming click done
+2024-05-27 11:03:31,639 - INFO - row 257 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54419/extractRefreshes
+2024-05-27 11:03:32,705 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:33,780 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:34,810 - INFO - old priority deleted
+2024-05-27 11:03:35,850 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:35,908 - INFO - priority changed, confirming click done
+2024-05-27 11:03:37,918 - INFO - row 258 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/89344/extractRefreshes
+2024-05-27 11:03:38,977 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:40,050 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:41,090 - INFO - old priority deleted
+2024-05-27 11:03:42,132 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:42,179 - INFO - priority changed, confirming click done
+2024-05-27 11:03:44,191 - INFO - row 259 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/74328/extractRefreshes
+2024-05-27 11:03:45,253 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:46,330 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:47,363 - INFO - old priority deleted
+2024-05-27 11:03:48,404 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:48,458 - INFO - priority changed, confirming click done
+2024-05-27 11:03:50,470 - INFO - row 260 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/81200/extractRefreshes
+2024-05-27 11:03:51,536 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:52,613 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:53,647 - INFO - old priority deleted
+2024-05-27 11:03:54,697 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:03:54,754 - INFO - priority changed, confirming click done
+2024-05-27 11:03:56,765 - INFO - row 261 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54436/extractRefreshes
+2024-05-27 11:03:57,825 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:03:58,896 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:03:59,933 - INFO - old priority deleted
+2024-05-27 11:04:00,970 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:01,021 - INFO - priority changed, confirming click done
+2024-05-27 11:04:03,033 - INFO - row 262 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54437/extractRefreshes
+2024-05-27 11:04:04,085 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:05,151 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:06,191 - INFO - old priority deleted
+2024-05-27 11:04:07,237 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:07,297 - INFO - priority changed, confirming click done
+2024-05-27 11:04:09,309 - INFO - row 263 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54597/extractRefreshes
+2024-05-27 11:04:10,374 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:11,446 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:12,484 - INFO - old priority deleted
+2024-05-27 11:04:13,529 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:13,590 - INFO - priority changed, confirming click done
+2024-05-27 11:04:15,604 - INFO - row 264 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/83461/extractRefreshes
+2024-05-27 11:04:16,670 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:17,741 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:18,781 - INFO - old priority deleted
+2024-05-27 11:04:19,823 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:19,879 - INFO - priority changed, confirming click done
+2024-05-27 11:04:21,891 - INFO - row 265 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54601/extractRefreshes
+2024-05-27 11:04:22,959 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:24,035 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:25,074 - INFO - old priority deleted
+2024-05-27 11:04:26,116 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:26,175 - INFO - priority changed, confirming click done
+2024-05-27 11:04:28,186 - INFO - row 266 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54450/extractRefreshes
+2024-05-27 11:04:29,254 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:30,317 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:31,354 - INFO - old priority deleted
+2024-05-27 11:04:32,397 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:32,446 - INFO - priority changed, confirming click done
+2024-05-27 11:04:34,459 - INFO - row 267 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54635/extractRefreshes
+2024-05-27 11:04:35,521 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:36,594 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:37,632 - INFO - old priority deleted
+2024-05-27 11:04:38,673 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:38,727 - INFO - priority changed, confirming click done
+2024-05-27 11:04:40,738 - INFO - row 268 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/54628/extractRefreshes
+2024-05-27 11:04:41,803 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:42,872 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:43,986 - INFO - old priority deleted
+2024-05-27 11:04:45,030 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:45,084 - INFO - priority changed, confirming click done
+2024-05-27 11:04:47,096 - INFO - row 269 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/79846/extractRefreshes
+2024-05-27 11:04:48,166 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:49,238 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:50,279 - INFO - old priority deleted
+2024-05-27 11:04:51,324 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:51,385 - INFO - priority changed, confirming click done
+2024-05-27 11:04:53,398 - INFO - row 270 - landed to: https://tableau.schneider-electric.com/#/site/GSCInternationalAnalyticsCOE/workbooks/81239/extractRefreshes
+2024-05-27 11:04:54,462 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:04:55,538 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:04:56,575 - INFO - old priority deleted
+2024-05-27 11:04:57,618 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:04:57,678 - INFO - priority changed, confirming click done
+2024-05-27 11:04:59,687 - INFO - row 271 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/90868/extractRefreshes
+2024-05-27 11:05:00,768 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:01,842 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:02,872 - INFO - old priority deleted
+2024-05-27 11:05:03,894 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:03,941 - INFO - priority changed, confirming click done
+2024-05-27 11:05:05,952 - INFO - row 272 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/19116/extractRefreshes
+2024-05-27 11:05:07,022 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:08,099 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:09,137 - INFO - old priority deleted
+2024-05-27 11:05:10,184 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:10,244 - INFO - priority changed, confirming click done
+2024-05-27 11:05:12,257 - INFO - row 273 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/87936/extractRefreshes
+2024-05-27 11:05:13,314 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:14,373 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:15,412 - INFO - old priority deleted
+2024-05-27 11:05:16,447 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:16,494 - INFO - priority changed, confirming click done
+2024-05-27 11:05:18,509 - INFO - row 274 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/56035/extractRefreshes
+2024-05-27 11:05:19,562 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:20,629 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:21,657 - INFO - old priority deleted
+2024-05-27 11:05:22,686 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:22,734 - INFO - priority changed, confirming click done
+2024-05-27 11:05:24,746 - INFO - row 275 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/48319/extractRefreshes
+2024-05-27 11:05:25,808 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:26,871 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:27,906 - INFO - old priority deleted
+2024-05-27 11:05:28,946 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:28,994 - INFO - priority changed, confirming click done
+2024-05-27 11:05:31,019 - INFO - row 276 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/datasources/5151177/extractRefreshes
+2024-05-27 11:05:32,077 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:33,145 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:34,167 - INFO - old priority deleted
+2024-05-27 11:05:35,229 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:35,279 - INFO - priority changed, confirming click done
+2024-05-27 11:05:37,296 - INFO - row 277 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/datasources/5130740/extractRefreshes
+2024-05-27 11:05:38,351 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:39,424 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:40,459 - INFO - old priority deleted
+2024-05-27 11:05:41,493 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:41,539 - INFO - priority changed, confirming click done
+2024-05-27 11:05:43,561 - INFO - row 278 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/18873/extractRefreshes
+2024-05-27 11:05:44,621 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:45,678 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:46,709 - INFO - old priority deleted
+2024-05-27 11:05:47,747 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:47,790 - INFO - priority changed, confirming click done
+2024-05-27 11:05:49,802 - INFO - row 279 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/67052/extractRefreshes
+2024-05-27 11:05:50,869 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:51,941 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:52,980 - INFO - old priority deleted
+2024-05-27 11:05:54,016 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:05:54,078 - INFO - priority changed, confirming click done
+2024-05-27 11:05:56,091 - INFO - row 280 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/19702/extractRefreshes
+2024-05-27 11:05:57,149 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:05:58,222 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:05:59,238 - INFO - old priority deleted
+2024-05-27 11:06:00,257 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:00,310 - INFO - priority changed, confirming click done
+2024-05-27 11:06:02,324 - INFO - row 281 - landed to: https://tableau.schneider-electric.com/#/site/GSCNAMAnalytics/workbooks/90060/extractRefreshes
+2024-05-27 11:06:03,379 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:04,440 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:05,459 - INFO - old priority deleted
+2024-05-27 11:06:06,504 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:06,560 - INFO - priority changed, confirming click done
+2024-05-27 11:06:08,570 - INFO - row 282 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/datasources/5147541/extractRefreshes
+2024-05-27 11:06:10,157 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:11,229 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:12,269 - INFO - old priority deleted
+2024-05-27 11:06:13,305 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:13,363 - INFO - priority changed, confirming click done
+2024-05-27 11:06:15,376 - INFO - row 283 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/datasources/4993259/extractRefreshes
+2024-05-27 11:06:16,440 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:17,512 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:18,547 - INFO - old priority deleted
+2024-05-27 11:06:19,594 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:19,654 - INFO - priority changed, confirming click done
+2024-05-27 11:06:21,666 - INFO - row 284 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/datasources/5140787/extractRefreshes
+2024-05-27 11:06:22,733 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:23,804 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:24,835 - INFO - old priority deleted
+2024-05-27 11:06:25,875 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:25,933 - INFO - priority changed, confirming click done
+2024-05-27 11:06:27,944 - INFO - row 285 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/workbooks/80070/extractRefreshes
+2024-05-27 11:06:29,002 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:30,071 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:31,087 - INFO - old priority deleted
+2024-05-27 11:06:32,126 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:32,166 - INFO - priority changed, confirming click done
+2024-05-27 11:06:34,180 - INFO - row 286 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/workbooks/85068/extractRefreshes
+2024-05-27 11:06:35,248 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:36,319 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:37,356 - INFO - old priority deleted
+2024-05-27 11:06:38,402 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:38,458 - INFO - priority changed, confirming click done
+2024-05-27 11:06:40,469 - INFO - row 287 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/datasources/5144752/extractRefreshes
+2024-05-27 11:06:41,535 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:42,609 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:43,647 - INFO - old priority deleted
+2024-05-27 11:06:44,690 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:44,745 - INFO - priority changed, confirming click done
+2024-05-27 11:06:46,756 - INFO - row 288 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/workbooks/90731/extractRefreshes
+2024-05-27 11:06:47,819 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:48,886 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:49,923 - INFO - old priority deleted
+2024-05-27 11:06:50,969 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:51,147 - INFO - priority changed, confirming click done
+2024-05-27 11:06:53,159 - INFO - row 289 - landed to: https://tableau.schneider-electric.com/#/site/IBERIABI/workbooks/37994/extractRefreshes
+2024-05-27 11:06:54,211 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:06:55,269 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:06:56,307 - INFO - old priority deleted
+2024-05-27 11:06:57,347 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:06:57,406 - INFO - priority changed, confirming click done
+2024-05-27 11:06:59,416 - INFO - row 290 - landed to: https://tableau.schneider-electric.com/#/site/ILBI/workbooks/90326/extractRefreshes
+2024-05-27 11:07:01,517 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:02,590 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:03,630 - INFO - old priority deleted
+2024-05-27 11:07:04,673 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:04,718 - INFO - priority changed, confirming click done
+2024-05-27 11:07:06,727 - INFO - row 291 - landed to: https://tableau.schneider-electric.com/#/site/IntelMasterData/workbooks/79800/extractRefreshes
+2024-05-27 11:07:07,784 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:08,857 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:09,897 - INFO - old priority deleted
+2024-05-27 11:07:10,936 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:10,990 - INFO - priority changed, confirming click done
+2024-05-27 11:07:13,000 - INFO - row 292 - landed to: https://tableau.schneider-electric.com/#/site/ITB_Analysis/workbooks/90576/extractRefreshes
+2024-05-27 11:07:14,055 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:15,127 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:16,166 - INFO - old priority deleted
+2024-05-27 11:07:17,212 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:17,265 - INFO - priority changed, confirming click done
+2024-05-27 11:07:19,272 - INFO - row 293 - landed to: https://tableau.schneider-electric.com/#/site/KZBI/workbooks/70417/extractRefreshes
+2024-05-27 11:07:20,336 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:21,411 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:22,451 - INFO - old priority deleted
+2024-05-27 11:07:23,496 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:23,539 - INFO - priority changed, confirming click done
+2024-05-27 11:07:25,549 - INFO - row 294 - landed to: https://tableau.schneider-electric.com/#/site/LIMS/workbooks/75011/extractRefreshes
+2024-05-27 11:07:27,121 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:28,197 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:29,239 - INFO - old priority deleted
+2024-05-27 11:07:30,275 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:30,334 - INFO - priority changed, confirming click done
+2024-05-27 11:07:32,344 - INFO - row 295 - landed to: https://tableau.schneider-electric.com/#/site/Mexico/datasources/1994743/extractRefreshes
+2024-05-27 11:07:34,989 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:36,060 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:37,101 - INFO - old priority deleted
+2024-05-27 11:07:38,150 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:38,212 - INFO - priority changed, confirming click done
+2024-05-27 11:07:40,227 - INFO - row 296 - landed to: https://tableau.schneider-electric.com/#/site/Mexico/datasources/4230083/extractRefreshes
+2024-05-27 11:07:41,291 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:42,365 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:43,405 - INFO - old priority deleted
+2024-05-27 11:07:44,434 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:44,493 - INFO - priority changed, confirming click done
+2024-05-27 11:07:46,504 - INFO - row 297 - landed to: https://tableau.schneider-electric.com/#/site/Mexico/datasources/4230097/extractRefreshes
+2024-05-27 11:07:47,572 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:48,645 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:49,676 - INFO - old priority deleted
+2024-05-27 11:07:50,718 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:50,775 - INFO - priority changed, confirming click done
+2024-05-27 11:07:52,787 - INFO - row 298 - landed to: https://tableau.schneider-electric.com/#/site/Mexico/datasources/3086694/extractRefreshes
+2024-05-27 11:07:53,854 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:07:54,929 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:07:55,956 - INFO - old priority deleted
+2024-05-27 11:07:57,107 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:07:57,165 - INFO - priority changed, confirming click done
+2024-05-27 11:07:59,179 - INFO - row 299 - landed to: https://tableau.schneider-electric.com/#/site/Mexico/datasources/3971772/extractRefreshes
+2024-05-27 11:08:00,751 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:01,797 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:02,824 - INFO - old priority deleted
+2024-05-27 11:08:03,868 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:03,926 - INFO - priority changed, confirming click done
+2024-05-27 11:08:05,940 - INFO - row 300 - landed to: https://tableau.schneider-electric.com/#/site/Mexico/datasources/3998363/extractRefreshes
+2024-05-27 11:08:06,997 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:08,059 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:09,098 - INFO - old priority deleted
+2024-05-27 11:08:10,147 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:10,203 - INFO - priority changed, confirming click done
+2024-05-27 11:08:12,228 - INFO - row 301 - landed to: https://tableau.schneider-electric.com/#/site/NAMAnalytics/workbooks/90808/extractRefreshes
+2024-05-27 11:08:13,285 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:14,471 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:15,513 - INFO - old priority deleted
+2024-05-27 11:08:16,555 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:16,612 - INFO - priority changed, confirming click done
+2024-05-27 11:08:18,625 - INFO - row 302 - landed to: https://tableau.schneider-electric.com/#/site/NAMAnalytics/workbooks/88064/extractRefreshes
+2024-05-27 11:08:19,694 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:20,769 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:21,808 - INFO - old priority deleted
+2024-05-27 11:08:22,857 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:22,906 - INFO - priority changed, confirming click done
+2024-05-27 11:08:24,916 - INFO - row 303 - landed to: https://tableau.schneider-electric.com/#/site/NAMAnalytics/workbooks/84763/extractRefreshes
+2024-05-27 11:08:25,983 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:27,058 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:28,096 - INFO - old priority deleted
+2024-05-27 11:08:29,138 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:29,188 - INFO - priority changed, confirming click done
+2024-05-27 11:08:31,199 - INFO - row 304 - landed to: https://tableau.schneider-electric.com/#/site/NAMAnalytics/workbooks/86596/extractRefreshes
+2024-05-27 11:08:32,261 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:33,327 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:34,362 - INFO - old priority deleted
+2024-05-27 11:08:35,396 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:35,452 - INFO - priority changed, confirming click done
+2024-05-27 11:08:37,461 - INFO - row 305 - landed to: https://tableau.schneider-electric.com/#/site/NAMHRSS/datasources/1911287/extractRefreshes
+2024-05-27 11:08:38,537 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:39,611 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:40,649 - INFO - old priority deleted
+2024-05-27 11:08:41,695 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:41,753 - INFO - priority changed, confirming click done
+2024-05-27 11:08:43,762 - INFO - row 306 - landed to: https://tableau.schneider-electric.com/#/site/NAMMarketingOps/workbooks/35029/extractRefreshes
+2024-05-27 11:08:45,335 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:46,399 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:47,428 - INFO - old priority deleted
+2024-05-27 11:08:48,459 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:48,517 - INFO - priority changed, confirming click done
+2024-05-27 11:08:50,525 - INFO - row 307 - landed to: https://tableau.schneider-electric.com/#/site/OGVendorDigitalLock/workbooks/35452/extractRefreshes
+2024-05-27 11:08:51,589 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:52,664 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:53,703 - INFO - old priority deleted
+2024-05-27 11:08:54,744 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:08:54,802 - INFO - priority changed, confirming click done
+2024-05-27 11:08:56,811 - INFO - row 308 - landed to: https://tableau.schneider-electric.com/#/site/OneShuttle/workbooks/58553/extractRefreshes
+2024-05-27 11:08:57,875 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:08:58,949 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:08:59,990 - INFO - old priority deleted
+2024-05-27 11:09:01,036 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:01,092 - INFO - priority changed, confirming click done
+2024-05-27 11:09:03,100 - INFO - row 309 - landed to: https://tableau.schneider-electric.com/#/site/PricingAnalytics/datasources/4923504/extractRefreshes
+2024-05-27 11:09:04,163 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:05,262 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:06,299 - INFO - old priority deleted
+2024-05-27 11:09:07,343 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:07,398 - INFO - priority changed, confirming click done
+2024-05-27 11:09:09,407 - INFO - row 310 - landed to: https://tableau.schneider-electric.com/#/site/SEIntel/workbooks/71822/extractRefreshes
+2024-05-27 11:09:10,474 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:11,552 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:12,584 - INFO - old priority deleted
+2024-05-27 11:09:13,630 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:13,688 - INFO - priority changed, confirming click done
+2024-05-27 11:09:15,698 - INFO - row 311 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/datasources/5143827/extractRefreshes
+2024-05-27 11:09:16,762 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:17,967 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:19,006 - INFO - old priority deleted
+2024-05-27 11:09:20,038 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:20,095 - INFO - priority changed, confirming click done
+2024-05-27 11:09:22,108 - INFO - row 312 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/datasources/5140748/extractRefreshes
+2024-05-27 11:09:23,172 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:24,243 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:25,266 - INFO - old priority deleted
+2024-05-27 11:09:26,300 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:26,349 - INFO - priority changed, confirming click done
+2024-05-27 11:09:28,357 - INFO - row 313 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/datasources/5140748/extractRefreshes
+2024-05-27 11:09:29,425 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:30,504 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:31,542 - INFO - old priority deleted
+2024-05-27 11:09:32,591 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:32,646 - INFO - priority changed, confirming click done
+2024-05-27 11:09:34,692 - INFO - row 314 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/datasources/4882061/extractRefreshes
+2024-05-27 11:09:35,760 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:36,829 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:37,860 - INFO - old priority deleted
+2024-05-27 11:09:38,889 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:38,945 - INFO - priority changed, confirming click done
+2024-05-27 11:09:40,957 - INFO - row 315 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/datasources/4480672/extractRefreshes
+2024-05-27 11:09:42,023 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:43,101 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:44,139 - INFO - old priority deleted
+2024-05-27 11:09:45,187 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:45,242 - INFO - priority changed, confirming click done
+2024-05-27 11:09:47,257 - INFO - row 316 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/workbooks/90823/extractRefreshes
+2024-05-27 11:09:48,315 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:49,386 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:50,425 - INFO - old priority deleted
+2024-05-27 11:09:51,467 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:51,517 - INFO - priority changed, confirming click done
+2024-05-27 11:09:53,530 - INFO - row 317 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/workbooks/67618/extractRefreshes
+2024-05-27 11:09:54,589 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:09:55,789 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:09:56,828 - INFO - old priority deleted
+2024-05-27 11:09:57,898 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:09:57,951 - INFO - priority changed, confirming click done
+2024-05-27 11:09:59,964 - INFO - row 318 - landed to: https://tableau.schneider-electric.com/#/site/SecurePowerSupplyChain_QualityAnalytics/workbooks/80906/extractRefreshes
+2024-05-27 11:10:01,026 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:10:02,099 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:10:03,137 - INFO - old priority deleted
+2024-05-27 11:10:04,171 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:10:04,225 - INFO - priority changed, confirming click done
+2024-05-27 11:10:06,519 - INFO - browser closed, script ends
+2024-05-27 11:30:11,510 - INFO - 
+             
+             SCRIPT STARTED...
+             
+2024-05-27 11:30:11,512 - INFO - csv file imported
+2024-05-27 11:30:13,730 - INFO - chromedriver is working fine
+2024-05-27 11:30:18,757 - INFO - row 1 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/85796/extractRefreshes
+2024-05-27 11:30:23,556 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:30:24,655 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:30:25,692 - INFO - old priority deleted
+2024-05-27 11:30:26,770 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:30:26,833 - INFO - priority changed, confirming click done
+2024-05-27 11:30:28,849 - INFO - row 2 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/55097/extractRefreshes
+2024-05-27 11:30:29,921 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:30:30,977 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:30:32,014 - INFO - old priority deleted
+2024-05-27 11:30:33,054 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:30:33,118 - INFO - priority changed, confirming click done
+2024-05-27 11:30:35,340 - INFO - browser closed, script ends
+2024-05-27 11:31:02,259 - INFO - 
+             
+             SCRIPT STARTED...
+             
+2024-05-27 11:31:02,262 - INFO - csv file imported
+2024-05-27 11:31:04,467 - INFO - chromedriver is working fine
+2024-05-27 11:31:09,929 - INFO - row 1 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/55097/extractRefreshes
+2024-05-27 11:31:15,130 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:31:16,230 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:31:17,268 - INFO - old priority deleted
+2024-05-27 11:31:18,302 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:31:18,363 - INFO - priority changed, confirming click done
+2024-05-27 11:31:20,370 - INFO - row 2 - landed to: https://tableau.schneider-electric.com/#/site/FinanceBI/workbooks/55097/extractRefreshes
+2024-05-27 11:31:21,433 - INFO - cliked on the actionsmenu-cell
+2024-05-27 11:31:22,503 - INFO - cliked on the action-menu-tasks-priority-MenuItem
+2024-05-27 11:31:23,531 - INFO - old priority deleted
+2024-05-27 11:31:24,571 - INFO - priority changed, waiting for confirming click
+2024-05-27 11:31:24,622 - INFO - priority changed, confirming click done
+2024-05-27 11:31:26,827 - INFO - browser closed, script ends
