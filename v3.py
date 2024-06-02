@@ -29,7 +29,7 @@ except Exception as e:
     logging.error('error with csv file: {0}'.format(e))
 
 # Open the Tableau Server website
-server = 'https://tableau.schneider-electric.com/#/'
+server = '<server_URL>'
 
 #Set the cheromedriver.exe 
 try:
@@ -45,9 +45,9 @@ except Exception as e:
 ### Script Start ###
 for index, row in df.iterrows():
     #creating the url based on the info provided in the .csv
-    if row['site_name'] != 'Enterprise BI':
+    if row['site_name'] != '<default_site_name>':
         url = server + 'site/' + row['site_urlname'] + '/' + row['content_type'] + '/' + str(row['id_url']) + '/extractRefreshes'
-    #the url for Enterprise BI is different
+    #the url for <default_site_name> is different
     else:
         url = server + row['content_type'] + '/' + str(row['id_url']) + '/extractRefreshes'
     
